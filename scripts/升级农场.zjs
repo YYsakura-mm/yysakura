@@ -1,0 +1,4 @@
+{"repeatCount":-1,"pauseOnFail":true,"count":3,"minVerCode":29,"minVerName":"2.1.3","screenWidth":720,"screenHeight":1280,"screenDpi":2,"lastSaveScreenWidth":1280,"lastSaveScreenHeight":720,"lastSaveScreenDpi":2,"savedVerCode":26000050,"savedVerName":"26.5.0","description":""}
+{"type":"点击","delay":"0","delayUnit":1,"desc":"详细信息","posData":{"type":"location","x":"20.3%","y":"6.7%"}}
+{"type":"点击","delay":"0.3","delayUnit":1,"desc":"升级农场","posData":{"type":"location","x":"80.6%","y":"91%"}}
+{"type":"点击","delay":"0.3","delayUnit":1,"desc":"返回","posData":{"type":"location","x":"28.4%","y":"55.8%"}}
