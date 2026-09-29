@@ -1,24 +1,18 @@
 {
   "schema": 4,
-  "id": "V20260929-161748",
-  "publishedAt": "2026-09-29 16:17:48",
-  "displayTime": "09-29 16:17",
-  "displayName": "09-29 16:17",
-  "snapshotSha": "3f57153a49b3912f64034d03115161c1ae465848",
-  "note": "",
+  "id": "V20260929-162535",
+  "publishedAt": "2026-09-29 16:25:35",
+  "displayTime": "09-29 16:25",
+  "displayName": "09-29 16:25｜修复比赛弹窗，11跳区容错率。11推荐没修",
+  "snapshotSha": "e099b8fa459e8dff67aad1578514f4a76a34a4fe",
+  "note": "修复比赛弹窗，11跳区容错率。11推荐没修",
   "fileCount": 30,
-  "changedCount": 2,
-  "addedCount": 1,
-  "removedCount": 2,
+  "changedCount": 1,
+  "addedCount": 0,
+  "removedCount": 0,
   "changedFiles": [
-    "关广告.zjs",
-    "嘎嘎祝福.zjs"
+    "1v1.zjs"
   ],
-  "addedFiles": [
-    "嘎嘎祝福.zjs"
-  ],
-  "removedFiles": [
-    "农场脚本上传.zjs",
-    "农场脚本下载.zjs"
-  ]
+  "addedFiles": [],
+  "removedFiles": []
 }
