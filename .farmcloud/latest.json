@@ -1,18 +1,25 @@
 {
   "schema": 4,
-  "id": "V20260929-221244",
-  "publishedAt": "2026-09-29 22:12:44",
-  "displayTime": "09-29 22:12",
-  "displayName": "09-29 22:12｜比赛广告主页修，11还是没有",
-  "snapshotSha": "611767893c098d3c331be183d6fa5fad80f7ab79",
-  "note": "比赛广告主页修，11还是没有",
-  "fileCount": 32,
-  "changedCount": 1,
-  "addedCount": 0,
+  "id": "V20260930-001901",
+  "publishedAt": "2026-09-30 00:19:01",
+  "displayTime": "09-30 00:19",
+  "displayName": "09-30 00:19｜集成上去，祝福识别准点",
+  "snapshotSha": "aedd32a60755d6fccac28c56e0f7684121f162bc",
+  "note": "集成上去，祝福识别准点",
+  "fileCount": 34,
+  "changedCount": 5,
+  "addedCount": 2,
   "removedCount": 0,
   "changedFiles": [
-    "关广告.zjs"
+    "脚本更新器.zjs",
+    "轻量状态跳转模板_V1.zjs",
+    "总控.zjs",
+    "祝福.zjs",
+    "祝福识别收方.zjs"
   ],
-  "addedFiles": [],
+  "addedFiles": [
+    "脚本更新器.zjs",
+    "轻量状态跳转模板_V1.zjs"
+  ],
   "removedFiles": []
 }
