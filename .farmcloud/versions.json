@@ -1,0 +1,52 @@
+{
+  "schema": 4,
+  "versions": [
+    {
+      "schema": 4,
+      "id": "V20260929-142542",
+      "publishedAt": "2026-09-29 14:25:42",
+      "snapshotSha": "f343a837176aa689d3e6c7cc43ac28fae6f88f5b",
+      "note": "dian测试",
+      "fileCount": 32,
+      "changedCount": 0,
+      "addedCount": 32,
+      "removedCount": 0,
+      "changedFiles": [],
+      "addedFiles": [
+        "1v1.zjs",
+        "55.zjs",
+        "一键种植.zjs",
+        "上传.zjs",
+        "下载.zjs",
+        "保变异收割.zjs",
+        "偏移.zjs",
+        "关广告.zjs",
+        "切换账号.zjs",
+        "初始化OCR.zjs",
+        "升级农场.zjs",
+        "升级小摊.zjs",
+        "占位保存.zjs",
+        "变异植物上传.zjs",
+        "变异植物识别.zjs",
+        "嘎嘎祝福.zjs",
+        "总控.zjs",
+        "挂5.zjs",
+        "换16经验.zjs",
+        "换经济作物.zjs",
+        "收割判定.zjs",
+        "查看状态.zjs",
+        "浇水领奖.zjs",
+        "状态提示.zjs",
+        "祝福.zjs",
+        "祝福判定.zjs",
+        "账号配置.zjs",
+        "进游戏关闭广告.zjs",
+        "退出农场.zjs",
+        "选择八小时作物.zjs",
+        "选择英雄植物.zjs",
+        "重启王者.zjs"
+      ],
+      "removedFiles": []
+    }
+  ]
+}
