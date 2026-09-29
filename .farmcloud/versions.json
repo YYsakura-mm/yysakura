@@ -3,6 +3,35 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260929-145322",
+      "publishedAt": "2026-09-29 14:53:22",
+      "displayTime": "09-29 14:53",
+      "displayName": "09-29 14:53｜11推荐没修",
+      "snapshotSha": "b848f0b032e5090813e89580989cd35f141346fd",
+      "note": "11推荐没修",
+      "fileCount": 31,
+      "changedCount": 1,
+      "addedCount": 4,
+      "removedCount": 5,
+      "changedFiles": [
+        "总控.zjs"
+      ],
+      "addedFiles": [
+        "农场脚本上传.zjs",
+        "农场脚本下载.zjs",
+        "记录报错.zjs",
+        "识别情况.zjs"
+      ],
+      "removedFiles": [
+        "上传.zjs",
+        "下载.zjs",
+        "偏移.zjs",
+        "嘎嘎祝福.zjs",
+        "挂5.zjs"
+      ]
+    },
+    {
+      "schema": 4,
       "id": "V20260929-142542",
       "publishedAt": "2026-09-29 14:25:42",
       "snapshotSha": "f343a837176aa689d3e6c7cc43ac28fae6f88f5b",
