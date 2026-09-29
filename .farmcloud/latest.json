@@ -1,18 +1,24 @@
 {
   "schema": 4,
-  "id": "V20260929-162535",
-  "publishedAt": "2026-09-29 16:25:35",
-  "displayTime": "09-29 16:25",
-  "displayName": "09-29 16:25｜修复比赛弹窗，11跳区容错率。11推荐没修",
-  "snapshotSha": "e099b8fa459e8dff67aad1578514f4a76a34a4fe",
-  "note": "修复比赛弹窗，11跳区容错率。11推荐没修",
-  "fileCount": 30,
-  "changedCount": 1,
-  "addedCount": 0,
+  "id": "V20260929-181858",
+  "publishedAt": "2026-09-29 18:18:58",
+  "displayTime": "09-29 18:18",
+  "displayName": "09-29 18:18｜祝福识别，巨大识别（11推荐还没修）",
+  "snapshotSha": "833151fcbf543a6522d2482ab4d32cf6bfd3b795",
+  "note": "祝福识别，巨大识别（11推荐还没修）",
+  "fileCount": 32,
+  "changedCount": 4,
+  "addedCount": 2,
   "removedCount": 0,
   "changedFiles": [
-    "1v1.zjs"
+    "祝福识别收方.zjs",
+    "祝福识别送方.zjs",
+    "初始化OCR.zjs",
+    "祝福.zjs"
   ],
-  "addedFiles": [],
+  "addedFiles": [
+    "祝福识别收方.zjs",
+    "祝福识别送方.zjs"
+  ],
   "removedFiles": []
 }
