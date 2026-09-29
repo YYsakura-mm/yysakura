@@ -3,6 +3,24 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260929-221244",
+      "publishedAt": "2026-09-29 22:12:44",
+      "displayTime": "09-29 22:12",
+      "displayName": "09-29 22:12｜比赛广告主页修，11还是没有",
+      "snapshotSha": "611767893c098d3c331be183d6fa5fad80f7ab79",
+      "note": "比赛广告主页修，11还是没有",
+      "fileCount": 32,
+      "changedCount": 1,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "关广告.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": []
+    },
+    {
+      "schema": 4,
       "id": "V20260929-181858",
       "publishedAt": "2026-09-29 18:18:58",
       "displayTime": "09-29 18:18",
