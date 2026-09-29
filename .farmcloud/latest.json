@@ -1,29 +1,24 @@
 {
   "schema": 4,
-  "id": "V20260929-145322",
-  "publishedAt": "2026-09-29 14:53:22",
-  "displayTime": "09-29 14:53",
-  "displayName": "09-29 14:53｜11推荐没修",
-  "snapshotSha": "b848f0b032e5090813e89580989cd35f141346fd",
-  "note": "11推荐没修",
-  "fileCount": 31,
-  "changedCount": 1,
-  "addedCount": 4,
-  "removedCount": 5,
+  "id": "V20260929-161748",
+  "publishedAt": "2026-09-29 16:17:48",
+  "displayTime": "09-29 16:17",
+  "displayName": "09-29 16:17",
+  "snapshotSha": "3f57153a49b3912f64034d03115161c1ae465848",
+  "note": "",
+  "fileCount": 30,
+  "changedCount": 2,
+  "addedCount": 1,
+  "removedCount": 2,
   "changedFiles": [
-    "总控.zjs"
+    "关广告.zjs",
+    "嘎嘎祝福.zjs"
   ],
   "addedFiles": [
-    "农场脚本上传.zjs",
-    "农场脚本下载.zjs",
-    "记录报错.zjs",
-    "识别情况.zjs"
+    "嘎嘎祝福.zjs"
   ],
   "removedFiles": [
-    "上传.zjs",
-    "下载.zjs",
-    "偏移.zjs",
-    "嘎嘎祝福.zjs",
-    "挂5.zjs"
+    "农场脚本上传.zjs",
+    "农场脚本下载.zjs"
   ]
 }
