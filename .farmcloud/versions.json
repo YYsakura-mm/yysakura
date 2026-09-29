@@ -3,6 +3,30 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260929-161748",
+      "publishedAt": "2026-09-29 16:17:48",
+      "displayTime": "09-29 16:17",
+      "displayName": "09-29 16:17",
+      "snapshotSha": "3f57153a49b3912f64034d03115161c1ae465848",
+      "note": "",
+      "fileCount": 30,
+      "changedCount": 2,
+      "addedCount": 1,
+      "removedCount": 2,
+      "changedFiles": [
+        "关广告.zjs",
+        "嘎嘎祝福.zjs"
+      ],
+      "addedFiles": [
+        "嘎嘎祝福.zjs"
+      ],
+      "removedFiles": [
+        "农场脚本上传.zjs",
+        "农场脚本下载.zjs"
+      ]
+    },
+    {
+      "schema": 4,
       "id": "V20260929-145322",
       "publishedAt": "2026-09-29 14:53:22",
       "displayTime": "09-29 14:53",
