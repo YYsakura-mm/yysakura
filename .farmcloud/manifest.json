@@ -1,7 +1,7 @@
 {
   "schema": 4,
-  "mode": "auto-directory",
-  "description": "自动扫描根目录全部 .zjs；所有有变化的脚本全部发布，包括总控和云工具",
+  "mode": "git-sha-incremental",
+  "description": "V4.6：GitHub目录blob SHA增量同步；不再使用latest-package日常更新",
   "files": [
     "1v1.zjs",
     "55.zjs",
@@ -13,7 +13,6 @@
     "占位保存.zjs",
     "变异植物上传.zjs",
     "变异植物识别.zjs",
-    "总控.zjs",
     "换16经验.zjs",
     "换经济作物.zjs",
     "收割判定.zjs",
@@ -31,7 +30,7 @@
     "重启王者.zjs",
     "农场脚本版本发布器.zjs",
     "农场脚本版本更新器.zjs",
-    "农场脚本下载.zjs"
-  ],
-  "excludedPrefixes": []
+    "农场脚本下载.zjs",
+    "总控.zjs"
+  ]
 }
