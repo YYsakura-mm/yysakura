@@ -1,7 +1,7 @@
 {
   "schema": 4,
   "mode": "auto-directory",
-  "description": "自动扫描正式 .zjs，包含版本发布器与版本更新器；更新器固定排最后",
+  "description": "自动扫描正式 .zjs，包含发布器、更新器和一键下载器；云工具固定排最后",
   "files": [
     "1v1.zjs",
     "55.zjs",
@@ -35,7 +35,8 @@
     "选择英雄植物.zjs",
     "重启王者.zjs",
     "农场脚本版本发布器.zjs",
-    "农场脚本版本更新器.zjs"
+    "农场脚本版本更新器.zjs",
+    "农场脚本下载.zjs"
   ],
   "excludedPrefixes": [
     "农场脚本批量上传器",
