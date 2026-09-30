@@ -1,25 +1,22 @@
 {
   "schema": 4,
-  "id": "V20260930-001901",
-  "publishedAt": "2026-09-30 00:19:01",
-  "displayTime": "09-30 00:19",
-  "displayName": "09-30 00:19｜集成上去，祝福识别准点",
-  "snapshotSha": "aedd32a60755d6fccac28c56e0f7684121f162bc",
-  "note": "集成上去，祝福识别准点",
-  "fileCount": 34,
-  "changedCount": 5,
-  "addedCount": 2,
-  "removedCount": 0,
+  "id": "V20260930-104610",
+  "publishedAt": "2026-09-30 10:46:10",
+  "displayTime": "09-30 10:46",
+  "displayName": "09-30 10:46｜测试",
+  "snapshotSha": "6663afadccce7ffcd530ba1e6199e9f4ee780b75",
+  "note": "测试",
+  "fileCount": 31,
+  "changedCount": 1,
+  "addedCount": 0,
+  "removedCount": 3,
   "changedFiles": [
-    "脚本更新器.zjs",
-    "轻量状态跳转模板_V1.zjs",
-    "总控.zjs",
-    "祝福.zjs",
-    "祝福识别收方.zjs"
+    "总控.zjs"
   ],
-  "addedFiles": [
+  "addedFiles": [],
+  "removedFiles": [
     "脚本更新器.zjs",
+    "识别情况.zjs",
     "轻量状态跳转模板_V1.zjs"
-  ],
-  "removedFiles": []
+  ]
 }
