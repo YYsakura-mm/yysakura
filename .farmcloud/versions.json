@@ -3,6 +3,25 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260930-112737",
+      "publishedAt": "2026-09-30 11:27:37",
+      "displayTime": "09-30 11:27",
+      "displayName": "09-30 11:27｜修复",
+      "snapshotSha": "13ad63064ce0ccbe8d8eb4c8871831764cd535db",
+      "note": "修复",
+      "fileCount": 33,
+      "changedCount": 2,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "总控.zjs",
+        "农场脚本版本更新器.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": []
+    },
+    {
+      "schema": 4,
       "id": "V20260930-111325",
       "publishedAt": "2026-09-30 11:13:25",
       "displayTime": "09-30 11:13",
