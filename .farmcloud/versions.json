@@ -3,6 +3,24 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260930-163956",
+      "publishedAt": "2026-09-30 16:39:56",
+      "displayTime": "09-30 16:39",
+      "displayName": "09-30 16:39｜修复卡死和12区以内自动",
+      "snapshotSha": "f33c8533eff5ec3c4ab579f259d78330b03f40a1",
+      "note": "修复卡死和12区以内自动",
+      "fileCount": 29,
+      "changedCount": 1,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "关广告.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": []
+    },
+    {
+      "schema": 4,
       "id": "V20260930-161033",
       "publishedAt": "2026-09-30 16:10:33",
       "displayTime": "09-30 16:10",
