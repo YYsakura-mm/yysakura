@@ -3,6 +3,24 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260930-213110",
+      "publishedAt": "2026-09-30 21:31:10",
+      "displayTime": "09-30 21:31",
+      "displayName": "09-30 21:31｜收割修复",
+      "snapshotSha": "ea22a217469f8c8c1c4f2515c80874e60c82717e",
+      "note": "收割修复",
+      "fileCount": 29,
+      "changedCount": 1,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "保变异收割.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": []
+    },
+    {
+      "schema": 4,
       "id": "V20260930-175129",
       "publishedAt": "2026-09-30 17:51:29",
       "displayTime": "09-30 17:51",
