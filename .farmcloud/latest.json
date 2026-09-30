@@ -1,23 +1,18 @@
 {
   "schema": 4,
-  "id": "V20260930-113945",
-  "publishedAt": "2026-09-30 11:39:45",
-  "displayTime": "09-30 11:39",
-  "displayName": "09-30 11:39｜+1",
-  "snapshotSha": "e4fec251ae32da475460811a4993641d2458c3fd",
-  "note": "+1",
+  "id": "V20260930-115759",
+  "publishedAt": "2026-09-30 11:57:59",
+  "displayTime": "09-30 11:57",
+  "displayName": "09-30 11:57｜+2",
+  "snapshotSha": "986aa70f754d5d2d0af9fcfb3da04c76a97b259d",
+  "note": "+2",
   "fileCount": 34,
-  "changedCount": 4,
-  "addedCount": 1,
+  "changedCount": 1,
+  "addedCount": 0,
   "removedCount": 0,
   "changedFiles": [
-    "总控.zjs",
-    "农场脚本版本发布器.zjs",
-    "农场脚本版本更新器.zjs",
-    "农场脚本下载.zjs"
+    "总控.zjs"
   ],
-  "addedFiles": [
-    "农场脚本下载.zjs"
-  ],
+  "addedFiles": [],
   "removedFiles": []
 }
