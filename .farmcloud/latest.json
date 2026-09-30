@@ -1,22 +1,21 @@
 {
   "schema": 4,
-  "id": "V20260930-104610",
-  "publishedAt": "2026-09-30 10:46:10",
-  "displayTime": "09-30 10:46",
-  "displayName": "09-30 10:46｜测试",
-  "snapshotSha": "6663afadccce7ffcd530ba1e6199e9f4ee780b75",
-  "note": "测试",
+  "id": "V20260930-104845",
+  "publishedAt": "2026-09-30 10:48:45",
+  "displayTime": "09-30 10:48",
+  "displayName": "09-30 10:48｜11推荐修复，进农场无限加载修复",
+  "snapshotSha": "843a79cac249c0f23b55186defc6e6be64b2b540",
+  "note": "11推荐修复，进农场无限加载修复",
   "fileCount": 31,
-  "changedCount": 1,
+  "changedCount": 4,
   "addedCount": 0,
-  "removedCount": 3,
+  "removedCount": 0,
   "changedFiles": [
+    "1v1.zjs",
+    "关广告.zjs",
+    "占位保存.zjs",
     "总控.zjs"
   ],
   "addedFiles": [],
-  "removedFiles": [
-    "脚本更新器.zjs",
-    "识别情况.zjs",
-    "轻量状态跳转模板_V1.zjs"
-  ]
+  "removedFiles": []
 }
