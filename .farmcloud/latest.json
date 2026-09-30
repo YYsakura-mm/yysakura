@@ -1,18 +1,22 @@
 {
   "schema": 4,
-  "id": "V20260930-213110",
-  "publishedAt": "2026-09-30 21:31:10",
-  "displayTime": "09-30 21:31",
-  "displayName": "09-30 21:31｜收割修复",
-  "snapshotSha": "ea22a217469f8c8c1c4f2515c80874e60c82717e",
-  "note": "收割修复",
+  "id": "V20260930-224918",
+  "publishedAt": "2026-09-30 22:49:18",
+  "displayTime": "09-30 22:49",
+  "displayName": "09-30 22:49｜上传下载变快，收割完美",
+  "snapshotSha": "32a52d96c6875e408d3612fe28bed703d3e4d939",
+  "note": "上传下载变快，收割完美",
   "fileCount": 29,
-  "changedCount": 1,
+  "changedCount": 4,
   "addedCount": 0,
   "removedCount": 0,
   "changedFiles": [
-    "保变异收割.zjs"
+    "保变异收割.zjs",
+    "变异植物识别.zjs",
+    "农场脚本版本发布器.zjs",
+    "农场脚本下载.zjs"
   ],
   "addedFiles": [],
-  "removedFiles": []
+  "removedFiles": [],
+  "syncMode": "git-sha-incremental"
 }
