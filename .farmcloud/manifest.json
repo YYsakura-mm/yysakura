@@ -1,7 +1,7 @@
 {
   "schema": 4,
   "mode": "auto-directory",
-  "description": "自动扫描正式 .zjs，包含发布器、更新器和一键下载器；云工具固定排最后",
+  "description": "自动扫描根目录全部 .zjs；所有有变化的脚本全部发布，包括总控和云工具",
   "files": [
     "1v1.zjs",
     "55.zjs",
@@ -33,14 +33,5 @@
     "农场脚本版本更新器.zjs",
     "农场脚本下载.zjs"
   ],
-  "excludedPrefixes": [
-    "农场脚本批量上传器",
-    "农场脚本批量更新器",
-    "GitHub上传器",
-    "GitHub下载更新器",
-    "ZJS目录扫描测试",
-    "轻量状态跳转模板",
-    "脚本更新器",
-    "识别情况"
-  ]
+  "excludedPrefixes": []
 }
