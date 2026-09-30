@@ -1,7 +1,7 @@
 {
   "schema": 4,
   "mode": "auto-directory",
-  "description": "自动扫描 /storage/emulated/0/自动精灵/ 下全部业务 .zjs 文件",
+  "description": "自动扫描正式 .zjs，包含版本发布器与版本更新器；更新器固定排最后",
   "files": [
     "1v1.zjs",
     "55.zjs",
@@ -33,11 +33,11 @@
     "退出农场.zjs",
     "选择八小时作物.zjs",
     "选择英雄植物.zjs",
-    "重启王者.zjs"
+    "重启王者.zjs",
+    "农场脚本版本发布器.zjs",
+    "农场脚本版本更新器.zjs"
   ],
   "excludedPrefixes": [
-    "农场脚本版本发布器",
-    "农场脚本版本更新器",
     "农场脚本批量上传器",
     "农场脚本批量更新器",
     "GitHub上传器",
