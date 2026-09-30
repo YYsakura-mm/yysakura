@@ -3,6 +3,32 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260930-125723",
+      "publishedAt": "2026-09-30 12:57:23",
+      "displayTime": "09-30 12:57",
+      "displayName": "09-30 12:57｜9.30稳定版",
+      "snapshotSha": "678ffd216ff88199aed9cf12bd28a104b55660e6",
+      "note": "9.30稳定版",
+      "fileCount": 29,
+      "changedCount": 3,
+      "addedCount": 0,
+      "removedCount": 5,
+      "changedFiles": [
+        "保变异收割.zjs",
+        "变异植物上传.zjs",
+        "收割判定.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": [
+        "升级农场.zjs",
+        "升级小摊.zjs",
+        "嘎嘎祝福.zjs",
+        "记录报错.zjs",
+        "账号配置.zjs"
+      ]
+    },
+    {
+      "schema": 4,
       "id": "V20260930-123106",
       "publishedAt": "2026-09-30 12:31:06",
       "displayTime": "09-30 12:31",
