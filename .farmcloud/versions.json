@@ -3,6 +3,26 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20260930-123106",
+      "publishedAt": "2026-09-30 12:31:06",
+      "displayTime": "09-30 12:31",
+      "displayName": "09-30 12:31｜打包",
+      "snapshotSha": "b2e2fbc65612f918b6793104a7a936450eba9bda",
+      "note": "打包",
+      "fileCount": 34,
+      "changedCount": 3,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "农场脚本版本发布器.zjs",
+        "农场脚本版本更新器.zjs",
+        "农场脚本下载.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": []
+    },
+    {
+      "schema": 4,
       "id": "V20260930-122306",
       "publishedAt": "2026-09-30 12:23:06",
       "displayTime": "09-30 12:23",
