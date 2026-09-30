@@ -1,17 +1,18 @@
 {
   "schema": 4,
-  "id": "V20260930-163956",
-  "publishedAt": "2026-09-30 16:39:56",
-  "displayTime": "09-30 16:39",
-  "displayName": "09-30 16:39｜修复卡死和12区以内自动",
-  "snapshotSha": "f33c8533eff5ec3c4ab579f259d78330b03f40a1",
-  "note": "修复卡死和12区以内自动",
+  "id": "V20260930-165842",
+  "publishedAt": "2026-09-30 16:58:42",
+  "displayTime": "09-30 16:58",
+  "displayName": "09-30 16:58｜更新bug",
+  "snapshotSha": "a83b58ae977d788d4bde610e29dd1be275f5150b",
+  "note": "更新bug",
   "fileCount": 29,
-  "changedCount": 1,
+  "changedCount": 2,
   "addedCount": 0,
   "removedCount": 0,
   "changedFiles": [
-    "关广告.zjs"
+    "农场脚本版本发布器.zjs",
+    "农场脚本下载.zjs"
   ],
   "addedFiles": [],
   "removedFiles": []
