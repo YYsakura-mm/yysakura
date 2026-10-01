@@ -1,25 +1,18 @@
 {
   "schema": 4,
-  "id": "V20261001-211552",
-  "publishedAt": "2026-10-01 21:15:52",
-  "displayTime": "10-01 21:15",
-  "displayName": "10-01 21:15｜16经验优化",
-  "snapshotSha": "95393e6012fa0164eb6b8825a391f1c0c2473f98",
-  "note": "16经验优化",
+  "id": "V20261001-230902",
+  "publishedAt": "2026-10-01 23:09:02",
+  "displayTime": "10-01 23:09",
+  "displayName": "10-01 23:09｜模块和一键收获好了",
+  "snapshotSha": "41e48db5370aab9644fb557edc71b50f06ea7dcb",
+  "note": "模块和一键收获好了",
   "fileCount": 29,
-  "changedCount": 9,
+  "changedCount": 2,
   "addedCount": 0,
   "removedCount": 0,
   "changedFiles": [
-    "1v1.zjs",
-    "保变异收割.zjs",
-    "变异植物识别.zjs",
     "总控.zjs",
-    "换16经验.zjs",
-    "祝福.zjs",
-    "选择八小时作物.zjs",
-    "农场脚本版本发布器.zjs",
-    "农场脚本下载.zjs"
+    "浇水领奖.zjs"
   ],
   "addedFiles": [],
   "removedFiles": []
