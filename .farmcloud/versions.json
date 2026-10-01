@@ -3,6 +3,26 @@
   "versions": [
     {
       "schema": 4,
+      "id": "V20261001-172012",
+      "publishedAt": "2026-10-01 17:20:12",
+      "displayTime": "10-01 17:20",
+      "displayName": "10-01 17:20｜去掉多余的区，祝福进好友增加容错率",
+      "snapshotSha": "ae93b03e93060182fbdb33163d132fe1ace528fb",
+      "note": "去掉多余的区，祝福进好友增加容错率",
+      "fileCount": 29,
+      "changedCount": 2,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "祝福.zjs",
+        "总控.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": [],
+      "syncMode": "git-sha-incremental"
+    },
+    {
+      "schema": 4,
       "id": "V20261001-100729",
       "publishedAt": "2026-10-01 10:07:29",
       "displayTime": "10-01 10:07",
