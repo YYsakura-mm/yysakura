@@ -1,20 +1,17 @@
 {
   "schema": 4,
-  "id": "V20260930-224918",
-  "publishedAt": "2026-09-30 22:49:18",
-  "displayTime": "09-30 22:49",
-  "displayName": "09-30 22:49｜上传下载变快，收割完美",
-  "snapshotSha": "32a52d96c6875e408d3612fe28bed703d3e4d939",
-  "note": "上传下载变快，收割完美",
+  "id": "V20261001-100729",
+  "publishedAt": "2026-10-01 10:07:29",
+  "displayTime": "10-01 10:07",
+  "displayName": "10-01 10:07｜11推荐丢了，现在回来",
+  "snapshotSha": "fcd120c1b621741ef3cc6ac69f11649fc670573f",
+  "note": "11推荐丢了，现在回来",
   "fileCount": 29,
-  "changedCount": 4,
+  "changedCount": 1,
   "addedCount": 0,
   "removedCount": 0,
   "changedFiles": [
-    "保变异收割.zjs",
-    "变异植物识别.zjs",
-    "农场脚本版本发布器.zjs",
-    "农场脚本下载.zjs"
+    "1v1.zjs"
   ],
   "addedFiles": [],
   "removedFiles": [],
