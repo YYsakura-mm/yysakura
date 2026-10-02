@@ -1,18 +1,30 @@
 {
   "schema": 4,
-  "id": "V20261002-003122",
-  "publishedAt": "2026-10-02 00:31:22",
-  "displayTime": "10-02 00:31",
-  "displayName": "10-02 00:31｜16经验补全",
-  "snapshotSha": "b60fc8c0cb128a233c5f8339308fb5f9e06755c3",
-  "note": "16经验补全",
-  "fileCount": 29,
-  "changedCount": 1,
-  "addedCount": 0,
+  "id": "V20261002-174832",
+  "publishedAt": "2026-10-02 17:48:32",
+  "displayTime": "10-02 17:48",
+  "displayName": "10-02 17:48｜10.2/17.48祝福优化",
+  "snapshotSha": "41871d3d6d73fbfd0b97cc494398df1284eeed19",
+  "note": "10.2/17.48祝福优化",
+  "fileCount": 37,
+  "changedCount": 4,
+  "addedCount": 8,
   "removedCount": 0,
   "changedFiles": [
-    "换16经验.zjs"
+    "关广告.zjs",
+    "总控.zjs",
+    "祝福.zjs",
+    "祝福判定.zjs"
   ],
-  "addedFiles": [],
+  "addedFiles": [
+    "升级农场.zjs",
+    "升级小摊.zjs",
+    "嘎嘎祝福.zjs",
+    "脚本更新器.zjs",
+    "记录报错.zjs",
+    "识别情况.zjs",
+    "账号配置.zjs",
+    "轻量状态跳转模板_V1.zjs"
+  ],
   "removedFiles": []
 }
