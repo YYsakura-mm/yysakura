@@ -1,18 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261003-012952",
-  "versionId": "V20261003-012952",
-  "parentVersionId": "V20261003-001503",
-  "publishedAt": "2026-10-03 01:29:52",
-  "displayTime": "10-03 01:29",
-  "displayName": "10-03 01:29",
-  "note": "",
+  "id": "V20261003-015308",
+  "versionId": "V20261003-015308",
+  "parentVersionId": "V20261003-012952",
+  "publishedAt": "2026-10-03 01:53:08",
+  "displayTime": "10-03 01:53",
+  "displayName": "10-03 01:53｜11推荐的修复回来啦",
+  "note": "11推荐的修复回来啦",
   "fileCount": 29,
-  "changedCount": 2,
+  "changedCount": 1,
   "changedFiles": [
-    "保变异收割.zjs",
-    "查看状态.zjs"
+    "1v1.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -46,7 +45,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261003-012952",
-  "snapshotSha": "farm-v5-V20261003-012952",
+  "tagName": "farm-v5-V20261003-015308",
+  "snapshotSha": "farm-v5-V20261003-015308",
   "mode": "atomic-tag"
 }
