@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261002-195150",
-  "versionId": "V20261002-195150",
-  "parentVersionId": "V20261002-194441",
-  "publishedAt": "2026-10-02 19:51:50",
-  "displayTime": "10-02 19:51",
-  "displayName": "10-02 19:51｜19.51",
-  "note": "19.51",
+  "id": "V20261002-202603",
+  "versionId": "V20261002-202603",
+  "parentVersionId": "V20261002-195150",
+  "publishedAt": "2026-10-02 20:26:03",
+  "displayTime": "10-02 20:26",
+  "displayName": "10-02 20:26｜收割恢复状态提示",
+  "note": "收割恢复状态提示",
   "fileCount": 29,
   "changedCount": 1,
   "changedFiles": [
-    "农场脚本版本发布器.zjs"
+    "保变异收割.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -45,7 +45,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261002-195150",
-  "snapshotSha": "farm-v5-V20261002-195150",
+  "tagName": "farm-v5-V20261002-202603",
+  "snapshotSha": "farm-v5-V20261002-202603",
   "mode": "atomic-tag"
 }
