@@ -1,21 +1,29 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261003-201617",
-  "versionId": "V20261003-201617",
-  "parentVersionId": "V20261003-173538",
-  "publishedAt": "2026-10-03 20:16:17",
-  "displayTime": "10-03 20:16",
-  "displayName": "10-03 20:16｜8-16-英兼容",
-  "note": "8-16-英兼容",
+  "id": "V20261003-220208",
+  "versionId": "V20261003-220208",
+  "parentVersionId": "V20261003-201617",
+  "publishedAt": "2026-10-03 22:02:08",
+  "displayTime": "10-03 22:02",
+  "displayName": "10-03 22:02｜修复同步",
+  "note": "修复同步",
   "fileCount": 29,
-  "changedCount": 3,
+  "changedCount": 1,
   "changedFiles": [
-    "换16经验.zjs",
-    "选择八小时作物.zjs",
-    "选择英雄植物.zjs"
+    "查看状态.zjs"
   ],
-  "removedLegacyFiles": [],
+  "removedLegacyFiles": [
+    "农场脚本上传.zjs",
+    "升级农场.zjs",
+    "升级小摊.zjs",
+    "嘎嘎祝福.zjs",
+    "脚本更新器.zjs",
+    "记录报错.zjs",
+    "识别情况.zjs",
+    "账号配置.zjs",
+    "轻量状态跳转模板_V1.zjs"
+  ],
   "managedFiles": [
     "1v1.zjs",
     "55.zjs",
@@ -47,7 +55,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261003-201617",
-  "snapshotSha": "farm-v5-V20261003-201617",
+  "tagName": "farm-v5-V20261003-220208",
+  "snapshotSha": "farm-v5-V20261003-220208",
   "mode": "atomic-tag"
 }
