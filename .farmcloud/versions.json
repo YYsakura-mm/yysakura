@@ -1,6 +1,26 @@
 {
-  "schema": 5,
+  "schema": 4,
   "versions": [
+    {
+      "schema": 4,
+      "id": "V20261003-170136",
+      "publishedAt": "2026-10-03 17:01:36",
+      "displayTime": "10-03 17:01",
+      "displayName": "10-03 17:01｜显示版本？",
+      "snapshotSha": "b47ec3de60738b5b820e58405d043d69d157e655",
+      "note": "显示版本？",
+      "fileCount": 29,
+      "changedCount": 2,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "农场脚本版本发布器.zjs",
+        "总控.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": [],
+      "syncMode": "git-sha-incremental"
+    },
     {
       "schema": 5,
       "syncSchema": 52,
