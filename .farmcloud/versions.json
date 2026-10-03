@@ -1,6 +1,42 @@
 {
-  "schema": 5,
+  "schema": 4,
   "versions": [
+    {
+      "schema": 4,
+      "id": "V20261003-204532",
+      "publishedAt": "2026-10-03 20:45:32",
+      "displayTime": "10-03 20:45",
+      "displayName": "10-03 20:45｜2+16植物更新",
+      "snapshotSha": "f35f25f549cbb3de86b0c76b5a1413103c9b1d5f",
+      "note": "2+16植物更新",
+      "fileCount": 38,
+      "changedCount": 8,
+      "addedCount": 9,
+      "removedCount": 0,
+      "changedFiles": [
+        "升级农场.zjs",
+        "升级小摊.zjs",
+        "嘎嘎祝福.zjs",
+        "脚本更新器.zjs",
+        "记录报错.zjs",
+        "识别情况.zjs",
+        "账号配置.zjs",
+        "轻量状态跳转模板_V1.zjs"
+      ],
+      "addedFiles": [
+        "农场脚本上传.zjs",
+        "升级农场.zjs",
+        "升级小摊.zjs",
+        "嘎嘎祝福.zjs",
+        "脚本更新器.zjs",
+        "记录报错.zjs",
+        "识别情况.zjs",
+        "账号配置.zjs",
+        "轻量状态跳转模板_V1.zjs"
+      ],
+      "removedFiles": [],
+      "syncMode": "git-sha-incremental"
+    },
     {
       "schema": 5,
       "syncSchema": 52,
