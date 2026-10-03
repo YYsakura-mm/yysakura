@@ -1,17 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261003-173538",
-  "versionId": "V20261003-173538",
-  "parentVersionId": "V20261003-170534",
-  "publishedAt": "2026-10-03 17:35:38",
-  "displayTime": "10-03 17:35",
-  "displayName": "10-03 17:35｜修复云同步",
-  "note": "修复云同步",
+  "id": "V20261003-201617",
+  "versionId": "V20261003-201617",
+  "parentVersionId": "V20261003-173538",
+  "publishedAt": "2026-10-03 20:16:17",
+  "displayTime": "10-03 20:16",
+  "displayName": "10-03 20:16｜8-16-英兼容",
+  "note": "8-16-英兼容",
   "fileCount": 29,
-  "changedCount": 1,
+  "changedCount": 3,
   "changedFiles": [
-    "查看状态.zjs"
+    "换16经验.zjs",
+    "选择八小时作物.zjs",
+    "选择英雄植物.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -45,7 +47,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261003-173538",
-  "snapshotSha": "farm-v5-V20261003-173538",
+  "tagName": "farm-v5-V20261003-201617",
+  "snapshotSha": "farm-v5-V20261003-201617",
   "mode": "atomic-tag"
 }
