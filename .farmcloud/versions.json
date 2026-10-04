@@ -1,6 +1,27 @@
 {
-  "schema": 5,
+  "schema": 4,
   "versions": [
+    {
+      "schema": 4,
+      "id": "V20261004-122819",
+      "publishedAt": "2026-10-04 12:28:19",
+      "displayTime": "10-04 12:28",
+      "displayName": "10-04 12:28｜更新",
+      "snapshotSha": "e13a05b09930457a4a31e00ea21e89700a28f522",
+      "note": "更新",
+      "fileCount": 29,
+      "changedCount": 3,
+      "addedCount": 0,
+      "removedCount": 0,
+      "changedFiles": [
+        "1v1.zjs",
+        "祝福判定.zjs",
+        "退出农场.zjs"
+      ],
+      "addedFiles": [],
+      "removedFiles": [],
+      "syncMode": "git-sha-incremental"
+    },
     {
       "schema": 5,
       "syncSchema": 52,
