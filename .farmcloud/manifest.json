@@ -1,22 +1,18 @@
 {
-  "schema": 5,
-  "syncSchema": 52,
-  "mode": "strict-managed-set",
+  "schema": 4,
+  "mode": "git-sha-incremental",
+  "description": "V4.6：GitHub目录blob SHA增量同步；不再使用latest-package日常更新",
   "files": [
     "1v1.zjs",
     "55.zjs",
     "一键种植.zjs",
     "保变异收割.zjs",
     "关广告.zjs",
-    "农场脚本下载.zjs",
-    "农场脚本版本发布器.zjs",
-    "农场脚本版本更新器.zjs",
     "切换账号.zjs",
     "初始化OCR.zjs",
     "占位保存.zjs",
     "变异植物上传.zjs",
     "变异植物识别.zjs",
-    "总控.zjs",
     "换16经验.zjs",
     "换经济作物.zjs",
     "收割判定.zjs",
@@ -31,7 +27,10 @@
     "退出农场.zjs",
     "选择八小时作物.zjs",
     "选择英雄植物.zjs",
-    "重启王者.zjs"
-  ],
-  "ignoredExtraZjs": true
+    "重启王者.zjs",
+    "农场脚本版本发布器.zjs",
+    "农场脚本版本更新器.zjs",
+    "农场脚本下载.zjs",
+    "总控.zjs"
+  ]
 }
