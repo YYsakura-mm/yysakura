@@ -1,19 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261005-032832",
-  "versionId": "V20261005-032832",
-  "parentVersionId": "V20261004-135302",
-  "publishedAt": "2026-10-05 03:28:32",
-  "displayTime": "10-05 03:28",
-  "displayName": "10-05 03:28｜105328",
-  "note": "105328",
+  "id": "V20261005-103712",
+  "versionId": "V20261005-103712",
+  "parentVersionId": "V20261005-032832",
+  "publishedAt": "2026-10-05 10:37:12",
+  "displayTime": "10-05 10:37",
+  "displayName": "10-05 10:37｜1051038-11回来的问题再修复",
+  "note": "1051038-11回来的问题再修复",
   "fileCount": 29,
-  "changedCount": 3,
+  "changedCount": 1,
   "changedFiles": [
-    "农场脚本下载.zjs",
-    "农场脚本版本发布器.zjs",
-    "总控.zjs"
+    "1v1.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -47,7 +45,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261005-032832",
-  "snapshotSha": "farm-v5-V20261005-032832",
+  "tagName": "farm-v5-V20261005-103712",
+  "snapshotSha": "farm-v5-V20261005-103712",
   "mode": "atomic-tag"
 }
