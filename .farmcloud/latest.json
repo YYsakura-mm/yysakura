@@ -1,20 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261008-131816",
-  "versionId": "V20261008-131816",
-  "parentVersionId": "V20261008-011358",
-  "publishedAt": "2026-10-08 13:18:16",
-  "displayTime": "10-08 13:18",
-  "displayName": "10-08 13:18｜大更新了",
-  "note": "大更新了",
+  "id": "V20261008-141210",
+  "versionId": "V20261008-141210",
+  "parentVersionId": "V20261008-131816",
+  "publishedAt": "2026-10-08 14:12:10",
+  "displayTime": "10-08 14:12",
+  "displayName": "10-08 14:12｜祝福修复，领苹果，十块田",
+  "note": "祝福修复，领苹果，十块田",
   "fileCount": 30,
-  "changedCount": 4,
+  "changedCount": 3,
   "changedFiles": [
-    "农场脚本下载.zjs",
-    "农场脚本版本发布器.zjs",
-    "农场脚本版本更新器.zjs",
-    "十田经济种植.zjs"
+    "十田经济种植.zjs",
+    "浇水领奖.zjs",
+    "祝福.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -49,7 +48,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261008-131816",
-  "snapshotSha": "farm-v5-V20261008-131816",
+  "tagName": "farm-v5-V20261008-141210",
+  "snapshotSha": "farm-v5-V20261008-141210",
   "mode": "atomic-tag"
 }
