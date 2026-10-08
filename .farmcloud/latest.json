@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261008-153218",
-  "versionId": "V20261008-153218",
-  "parentVersionId": "V20261008-143102",
-  "publishedAt": "2026-10-08 15:32:18",
-  "displayTime": "10-08 15:32",
-  "displayName": "10-08 15:32｜领种子修复",
-  "note": "领种子修复",
+  "id": "V20261008-203706",
+  "versionId": "V20261008-203706",
+  "parentVersionId": "V20261008-153218",
+  "publishedAt": "2026-10-08 20:37:06",
+  "displayTime": "10-08 20:37",
+  "displayName": "10-08 20:37｜选区修复",
+  "note": "选区修复",
   "fileCount": 30,
   "changedCount": 1,
   "changedFiles": [
-    "浇水领奖.zjs"
+    "总控.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -46,7 +46,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261008-153218",
-  "snapshotSha": "farm-v5-V20261008-153218",
+  "tagName": "farm-v5-V20261008-203706",
+  "snapshotSha": "farm-v5-V20261008-203706",
   "mode": "atomic-tag"
 }
