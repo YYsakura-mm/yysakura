@@ -1,19 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261008-141210",
-  "versionId": "V20261008-141210",
-  "parentVersionId": "V20261008-131816",
-  "publishedAt": "2026-10-08 14:12:10",
-  "displayTime": "10-08 14:12",
-  "displayName": "10-08 14:12｜祝福修复，领苹果，十块田",
-  "note": "祝福修复，领苹果，十块田",
+  "id": "V20261008-142250",
+  "versionId": "V20261008-142250",
+  "parentVersionId": "V20261008-141210",
+  "publishedAt": "2026-10-08 14:22:50",
+  "displayTime": "10-08 14:22",
+  "displayName": "10-08 14:22｜修复一下退农场",
+  "note": "修复一下退农场",
   "fileCount": 30,
-  "changedCount": 3,
+  "changedCount": 1,
   "changedFiles": [
-    "十田经济种植.zjs",
-    "浇水领奖.zjs",
-    "祝福.zjs"
+    "退出农场.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -48,7 +46,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261008-141210",
-  "snapshotSha": "farm-v5-V20261008-141210",
+  "tagName": "farm-v5-V20261008-142250",
+  "snapshotSha": "farm-v5-V20261008-142250",
   "mode": "atomic-tag"
 }
