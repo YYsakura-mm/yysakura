@@ -1,13 +1,13 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261008-142250",
-  "versionId": "V20261008-142250",
-  "parentVersionId": "V20261008-141210",
-  "publishedAt": "2026-10-08 14:22:50",
-  "displayTime": "10-08 14:22",
-  "displayName": "10-08 14:22｜修复一下退农场",
-  "note": "修复一下退农场",
+  "id": "V20261008-143102",
+  "versionId": "V20261008-143102",
+  "parentVersionId": "V20261008-142250",
+  "publishedAt": "2026-10-08 14:31:02",
+  "displayTime": "10-08 14:31",
+  "displayName": "10-08 14:31｜退出优化",
+  "note": "退出优化",
   "fileCount": 30,
   "changedCount": 1,
   "changedFiles": [
@@ -46,7 +46,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261008-142250",
-  "snapshotSha": "farm-v5-V20261008-142250",
+  "tagName": "farm-v5-V20261008-143102",
+  "snapshotSha": "farm-v5-V20261008-143102",
   "mode": "atomic-tag"
 }
