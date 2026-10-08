@@ -1,20 +1,20 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261008-011358",
-  "versionId": "V20261008-011358",
-  "parentVersionId": "V20261005-151652",
-  "publishedAt": "2026-10-08 01:13:58",
-  "displayTime": "10-08 01:13",
-  "displayName": "10-08 01:13｜大更新",
-  "note": "大更新",
-  "fileCount": 29,
+  "id": "V20261008-131816",
+  "versionId": "V20261008-131816",
+  "parentVersionId": "V20261008-011358",
+  "publishedAt": "2026-10-08 13:18:16",
+  "displayTime": "10-08 13:18",
+  "displayName": "10-08 13:18｜大更新了",
+  "note": "大更新了",
+  "fileCount": 30,
   "changedCount": 4,
   "changedFiles": [
-    "保变异收割.zjs",
-    "总控.zjs",
-    "查看状态.zjs",
-    "退出农场.zjs"
+    "农场脚本下载.zjs",
+    "农场脚本版本发布器.zjs",
+    "农场脚本版本更新器.zjs",
+    "十田经济种植.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -32,6 +32,7 @@
     "变异植物上传.zjs",
     "变异植物识别.zjs",
     "总控.zjs",
+    "十田经济种植.zjs",
     "换16经验.zjs",
     "换经济作物.zjs",
     "收割判定.zjs",
@@ -48,7 +49,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261008-011358",
-  "snapshotSha": "farm-v5-V20261008-011358",
+  "tagName": "farm-v5-V20261008-131816",
+  "snapshotSha": "farm-v5-V20261008-131816",
   "mode": "atomic-tag"
 }
