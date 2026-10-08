@@ -1,18 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261008-211240",
-  "versionId": "V20261008-211240",
-  "parentVersionId": "V20261008-203706",
-  "publishedAt": "2026-10-08 21:12:40",
-  "displayTime": "10-08 21:12",
-  "displayName": "10-08 21:12｜选区修正",
-  "note": "选区修正",
+  "id": "V20261008-212342",
+  "versionId": "V20261008-212342",
+  "parentVersionId": "V20261008-211240",
+  "publishedAt": "2026-10-08 21:23:42",
+  "displayTime": "10-08 21:23",
+  "displayName": "10-08 21:23｜活动种子",
+  "note": "活动种子",
   "fileCount": 30,
-  "changedCount": 2,
+  "changedCount": 1,
   "changedFiles": [
-    "保变异收割.zjs",
-    "十田经济种植.zjs"
+    "浇水领奖.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -47,7 +46,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261008-211240",
-  "snapshotSha": "farm-v5-V20261008-211240",
+  "tagName": "farm-v5-V20261008-212342",
+  "snapshotSha": "farm-v5-V20261008-212342",
   "mode": "atomic-tag"
 }
