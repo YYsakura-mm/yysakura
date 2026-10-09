@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261009-135616",
-  "versionId": "V20261009-135616",
-  "parentVersionId": "V20261008-212342",
-  "publishedAt": "2026-10-09 13:56:16",
-  "displayTime": "10-09 13:56",
-  "displayName": "10-09 13:56｜领奖修复",
-  "note": "领奖修复",
+  "id": "V20261009-153655",
+  "versionId": "V20261009-153655",
+  "parentVersionId": "V20261009-135616",
+  "publishedAt": "2026-10-09 15:36:55",
+  "displayTime": "10-09 15:36",
+  "displayName": "10-09 15:36｜优化苹果",
+  "note": "优化苹果",
   "fileCount": 30,
   "changedCount": 2,
   "changedFiles": [
-    "总控.zjs",
+    "55.zjs",
     "浇水领奖.zjs"
   ],
   "removedLegacyFiles": [],
@@ -47,7 +47,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261009-135616",
-  "snapshotSha": "farm-v5-V20261009-135616",
+  "tagName": "farm-v5-V20261009-153655",
+  "snapshotSha": "farm-v5-V20261009-153655",
   "mode": "atomic-tag"
 }
