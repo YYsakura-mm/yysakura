@@ -1,17 +1,20 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261010-000451",
-  "versionId": "V20261010-000451",
-  "parentVersionId": "V20261009-235626",
-  "publishedAt": "2026-10-10 00:04:51",
-  "displayTime": "10-10 00:04",
-  "displayName": "10-10 00:04｜苹果修复",
-  "note": "苹果修复",
+  "id": "V20261010-002153",
+  "versionId": "V20261010-002153",
+  "parentVersionId": "V20261010-000451",
+  "publishedAt": "2026-10-10 00:21:53",
+  "displayTime": "10-10 00:21",
+  "displayName": "10-10 00:21｜植物更新了",
+  "note": "植物更新了",
   "fileCount": 30,
-  "changedCount": 1,
+  "changedCount": 4,
   "changedFiles": [
-    "浇水领奖.zjs"
+    "换16经验.zjs",
+    "换经济作物.zjs",
+    "选择八小时作物.zjs",
+    "选择英雄植物.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -46,7 +49,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261010-000451",
-  "snapshotSha": "farm-v5-V20261010-000451",
+  "tagName": "farm-v5-V20261010-002153",
+  "snapshotSha": "farm-v5-V20261010-002153",
   "mode": "atomic-tag"
 }
