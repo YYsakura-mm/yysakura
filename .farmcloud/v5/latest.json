@@ -1,13 +1,13 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261010-152442",
-  "versionId": "V20261010-152442",
-  "parentVersionId": "V20261010-002153",
-  "publishedAt": "2026-10-10 15:24:42",
-  "displayTime": "10-10 15:24",
-  "displayName": "10-10 15:24｜领全部苹果",
-  "note": "领全部苹果",
+  "id": "V20261010-212011",
+  "versionId": "V20261010-212011",
+  "parentVersionId": "V20261010-152442",
+  "publishedAt": "2026-10-10 21:20:11",
+  "displayTime": "10-10 21:20",
+  "displayName": "10-10 21:20｜无敌领苹果",
+  "note": "无敌领苹果",
   "fileCount": 30,
   "changedCount": 1,
   "changedFiles": [
@@ -46,7 +46,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261010-152442",
-  "snapshotSha": "farm-v5-V20261010-152442",
+  "tagName": "farm-v5-V20261010-212011",
+  "snapshotSha": "farm-v5-V20261010-212011",
   "mode": "atomic-tag"
 }
