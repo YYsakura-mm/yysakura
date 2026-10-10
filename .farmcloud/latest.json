@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261010-233844",
-  "versionId": "V20261010-233844",
-  "parentVersionId": "V20261010-212011",
-  "publishedAt": "2026-10-10 23:38:44",
-  "displayTime": "10-10 23:38",
-  "displayName": "10-10 23:38｜尝试修复收割",
-  "note": "尝试修复收割",
+  "id": "V20261010-234422",
+  "versionId": "V20261010-234422",
+  "parentVersionId": "V20261010-233844",
+  "publishedAt": "2026-10-10 23:44:22",
+  "displayTime": "10-10 23:44",
+  "displayName": "10-10 23:44｜8小时没芒果，修复了，收割好像可以用了",
+  "note": "8小时没芒果，修复了，收割好像可以用了",
   "fileCount": 30,
   "changedCount": 1,
   "changedFiles": [
-    "保变异收割.zjs"
+    "选择八小时作物.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -46,7 +46,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261010-233844",
-  "snapshotSha": "farm-v5-V20261010-233844",
+  "tagName": "farm-v5-V20261010-234422",
+  "snapshotSha": "farm-v5-V20261010-234422",
   "mode": "atomic-tag"
 }
