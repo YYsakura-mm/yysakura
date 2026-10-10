@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261010-212011",
-  "versionId": "V20261010-212011",
-  "parentVersionId": "V20261010-152442",
-  "publishedAt": "2026-10-10 21:20:11",
-  "displayTime": "10-10 21:20",
-  "displayName": "10-10 21:20｜无敌领苹果",
-  "note": "无敌领苹果",
+  "id": "V20261010-233844",
+  "versionId": "V20261010-233844",
+  "parentVersionId": "V20261010-212011",
+  "publishedAt": "2026-10-10 23:38:44",
+  "displayTime": "10-10 23:38",
+  "displayName": "10-10 23:38｜尝试修复收割",
+  "note": "尝试修复收割",
   "fileCount": 30,
   "changedCount": 1,
   "changedFiles": [
-    "浇水领奖.zjs"
+    "保变异收割.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -46,7 +46,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261010-212011",
-  "snapshotSha": "farm-v5-V20261010-212011",
+  "tagName": "farm-v5-V20261010-233844",
+  "snapshotSha": "farm-v5-V20261010-233844",
   "mode": "atomic-tag"
 }
