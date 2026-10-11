@@ -1,21 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261011-010059",
-  "versionId": "V20261011-010059",
-  "parentVersionId": "V20261011-000708",
-  "publishedAt": "2026-10-11 01:00:59",
-  "displayTime": "10-11 01:00",
-  "displayName": "10-11 01:00｜保护性收割",
-  "note": "保护性收割",
+  "id": "V20261011-200437",
+  "versionId": "V20261011-200437",
+  "parentVersionId": "V20261011-010059",
+  "publishedAt": "2026-10-11 20:04:37",
+  "displayTime": "10-11 20:04",
+  "displayName": "10-11 20:04｜优化收割，摸完了收",
+  "note": "优化收割，摸完了收",
   "fileCount": 31,
-  "changedCount": 5,
+  "changedCount": 1,
   "changedFiles": [
-    "保守24田收割.zjs",
-    "农场脚本下载.zjs",
-    "农场脚本版本发布器.zjs",
-    "农场脚本版本更新器.zjs",
-    "总控.zjs"
+    "保守24田收割.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -51,7 +47,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261011-010059",
-  "snapshotSha": "farm-v5-V20261011-010059",
+  "tagName": "farm-v5-V20261011-200437",
+  "snapshotSha": "farm-v5-V20261011-200437",
   "mode": "atomic-tag"
 }
