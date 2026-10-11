@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 52,
-  "id": "V20261011-215503",
-  "versionId": "V20261011-215503",
-  "parentVersionId": "V20261011-205540",
-  "publishedAt": "2026-10-11 21:55:03",
-  "displayTime": "10-11 21:55",
-  "displayName": "10-11 21:55｜修复测试，上一版不能用",
-  "note": "修复测试，上一版不能用",
+  "id": "V20261011-235337",
+  "versionId": "V20261011-235337",
+  "parentVersionId": "V20261011-215503",
+  "publishedAt": "2026-10-11 23:53:37",
+  "displayTime": "10-11 23:53",
+  "displayName": "10-11 23:53｜修复识别，上一个版本可用",
+  "note": "修复识别，上一个版本可用",
   "fileCount": 31,
   "changedCount": 1,
   "changedFiles": [
-    "变异植物上传.zjs"
+    "保守24田收割.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -47,7 +47,7 @@
     "选择英雄植物.zjs",
     "重启王者.zjs"
   ],
-  "tagName": "farm-v5-V20261011-215503",
-  "snapshotSha": "farm-v5-V20261011-215503",
+  "tagName": "farm-v5-V20261011-235337",
+  "snapshotSha": "farm-v5-V20261011-235337",
   "mode": "atomic-tag"
 }
