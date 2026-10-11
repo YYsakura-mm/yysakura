@@ -18,5 +18,5 @@
 {"type":"点击","delay":"0.2","delayUnit":1,"condition":{"type":"jsExpression","expression":"目标账号==8","desc":"按目标账号直接选择"},"desc":"第8个账号","posData":{"type":"location","x":"25%","y":"93.6%"}}
 {"type":"点击","delayUnit":1,"desc":"同意登录","posData":{"type":"location","x":"50%","y":"80.6%"}}
 {"type":"点击","delayUnit":1,"desc":"同意授权","posData":{"type":"location","x":"50%","y":"77.8%"}}
-{"type":"运行JS代码","delayUnit":1,"desc":"切号完成：提交当前真实账号","jsCode":"当前第几个号=目标账号;目标账号=0;"}
+{"type":"运行JS代码","delayUnit":1,"desc":"切号完成：提交真实账号，并原生缓存失效（防上个号身份串号）","jsCode":"当前第几个号=目标账号;目标账号=0;\n// 切号确认后，清空上一个账号的自己农场OCR锁；新账号第一次收割必须重新认领身份。\ntry{\n  zdjl.setVar(\"自己农场OCR已锁定\",\"否\",\"global\");\n  zdjl.setVar(\"自己农场OCR锁定标记\",\"\",\"global\");\n  zdjl.setVar(\"自己农场OCR原文\",\"\",\"global\");\n}catch(__switchIdentityResetErr){}\n"}
 {"type":"点击","delay":"4","delayUnit":1,"desc":"显示区列表","posData":{"type":"location","x":"63.8%","y":"67.4%"}}
