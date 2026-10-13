@@ -1,7 +1,7 @@
 {
-  "schema": 5,
-  "syncSchema": 52,
-  "mode": "strict-managed-set",
+  "schema": 6,
+  "syncSchema": 60,
+  "mode": "dynamic-confirmed-set",
   "files": [
     "1v1.zjs",
     "55.zjs",
@@ -33,7 +33,10 @@
     "退出农场.zjs",
     "选择八小时作物.zjs",
     "选择英雄植物.zjs",
-    "重启王者.zjs"
+    "重启王者.zjs",
+    "王者桌面启动.zjs",
+    "总控多功能版.zjs"
   ],
-  "ignoredExtraZjs": true
+  "ignoredExtraZjs": true,
+  "autoDiscovery": "best-effort-with-manual-registration"
 }
