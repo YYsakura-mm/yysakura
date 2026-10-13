@@ -1,24 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261013-212941",
-  "versionId": "V20261013-212941",
-  "parentVersionId": "V20261011-235337",
-  "publishedAt": "2026-10-13 21:29:41",
-  "displayTime": "10-13 21:29",
-  "displayName": "10-13 21:29｜大更新了，测试一下",
-  "note": "大更新了，测试一下",
+  "id": "V20261013-232446",
+  "versionId": "V20261013-232446",
+  "parentVersionId": "V20261013-212941",
+  "publishedAt": "2026-10-13 23:24:46",
+  "displayTime": "10-13 23:24",
+  "displayName": "10-13 23:24｜修复中，还有不少",
+  "note": "修复中，还有不少",
   "fileCount": 33,
-  "changedCount": 8,
+  "changedCount": 1,
   "changedFiles": [
-    "农场脚本下载.zjs",
-    "农场脚本版本发布器.zjs",
-    "农场脚本版本更新器.zjs",
-    "总控.zjs",
-    "状态提示.zjs",
-    "重启王者.zjs",
-    "王者桌面启动.zjs",
-    "总控多功能版.zjs"
+    "王者桌面启动.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -56,7 +49,7 @@
     "王者桌面启动.zjs",
     "总控多功能版.zjs"
   ],
-  "tagName": "farm-v5-V20261013-212941",
-  "snapshotSha": "farm-v5-V20261013-212941",
+  "tagName": "farm-v5-V20261013-232446",
+  "snapshotSha": "farm-v5-V20261013-232446",
   "mode": "atomic-tag"
 }
