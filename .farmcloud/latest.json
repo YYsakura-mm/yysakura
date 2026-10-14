@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261013-232446",
-  "versionId": "V20261013-232446",
-  "parentVersionId": "V20261013-212941",
-  "publishedAt": "2026-10-13 23:24:46",
-  "displayTime": "10-13 23:24",
-  "displayName": "10-13 23:24｜修复中，还有不少",
-  "note": "修复中，还有不少",
+  "id": "V20261014-095103",
+  "versionId": "V20261014-095103",
+  "parentVersionId": "V20261013-232446",
+  "publishedAt": "2026-10-14 09:51:03",
+  "displayTime": "10-14 09:51",
+  "displayName": "10-14 09:51｜测试版+1",
+  "note": "测试版+1",
   "fileCount": 33,
   "changedCount": 1,
   "changedFiles": [
-    "王者桌面启动.zjs"
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -49,7 +49,7 @@
     "王者桌面启动.zjs",
     "总控多功能版.zjs"
   ],
-  "tagName": "farm-v5-V20261013-232446",
-  "snapshotSha": "farm-v5-V20261013-232446",
+  "tagName": "farm-v5-V20261014-095103",
+  "snapshotSha": "farm-v5-V20261014-095103",
   "mode": "atomic-tag"
 }
