@@ -1,17 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261015-151902",
-  "versionId": "V20261015-151902",
-  "parentVersionId": "V20261015-142243",
-  "publishedAt": "2026-10-15 15:19:02",
-  "displayTime": "10-15 15:19",
-  "displayName": "10-15 15:19｜领奶茶好了，依旧是测试中",
-  "note": "领奶茶好了，依旧是测试中",
+  "id": "V20261015-161214",
+  "versionId": "V20261015-161214",
+  "parentVersionId": "V20261015-151902",
+  "publishedAt": "2026-10-15 16:12:14",
+  "displayTime": "10-15 16:12",
+  "displayName": "10-15 16:12｜测试修复了领种子，退出农村会退出游戏",
+  "note": "测试修复了领种子，退出农村会退出游戏",
   "fileCount": 34,
-  "changedCount": 1,
+  "changedCount": 2,
   "changedFiles": [
-    "浇水领奖.zjs"
+    "浇水领奖.zjs",
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -50,7 +51,7 @@
     "总控多功能版.zjs",
     "收割预检.zjs"
   ],
-  "tagName": "farm-v5-V20261015-151902",
-  "snapshotSha": "farm-v5-V20261015-151902",
+  "tagName": "farm-v5-V20261015-161214",
+  "snapshotSha": "farm-v5-V20261015-161214",
   "mode": "atomic-tag"
 }
