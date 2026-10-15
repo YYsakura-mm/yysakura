@@ -1,18 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261015-161214",
-  "versionId": "V20261015-161214",
-  "parentVersionId": "V20261015-151902",
-  "publishedAt": "2026-10-15 16:12:14",
-  "displayTime": "10-15 16:12",
-  "displayName": "10-15 16:12｜测试修复了领种子，退出农村会退出游戏",
-  "note": "测试修复了领种子，退出农村会退出游戏",
+  "id": "V20261015-161851",
+  "versionId": "V20261015-161851",
+  "parentVersionId": "V20261015-161214",
+  "publishedAt": "2026-10-15 16:18:51",
+  "displayTime": "10-15 16:18",
+  "displayName": "10-15 16:18｜加一个关闭广告",
+  "note": "加一个关闭广告",
   "fileCount": 34,
-  "changedCount": 2,
+  "changedCount": 1,
   "changedFiles": [
-    "浇水领奖.zjs",
-    "总控多功能版.zjs"
+    "关广告.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -51,7 +50,7 @@
     "总控多功能版.zjs",
     "收割预检.zjs"
   ],
-  "tagName": "farm-v5-V20261015-161214",
-  "snapshotSha": "farm-v5-V20261015-161214",
+  "tagName": "farm-v5-V20261015-161851",
+  "snapshotSha": "farm-v5-V20261015-161851",
   "mode": "atomic-tag"
 }
