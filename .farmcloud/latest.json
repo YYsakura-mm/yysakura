@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261015-161851",
-  "versionId": "V20261015-161851",
-  "parentVersionId": "V20261015-161214",
-  "publishedAt": "2026-10-15 16:18:51",
-  "displayTime": "10-15 16:18",
-  "displayName": "10-15 16:18｜加一个关闭广告",
-  "note": "加一个关闭广告",
+  "id": "V20261015-203948",
+  "versionId": "V20261015-203948",
+  "parentVersionId": "V20261015-161851",
+  "publishedAt": "2026-10-15 20:39:48",
+  "displayTime": "10-15 20:39",
+  "displayName": "10-15 20:39｜领种子",
+  "note": "领种子",
   "fileCount": 34,
   "changedCount": 1,
   "changedFiles": [
-    "关广告.zjs"
+    "浇水领奖.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -50,7 +50,7 @@
     "总控多功能版.zjs",
     "收割预检.zjs"
   ],
-  "tagName": "farm-v5-V20261015-161851",
-  "snapshotSha": "farm-v5-V20261015-161851",
+  "tagName": "farm-v5-V20261015-203948",
+  "snapshotSha": "farm-v5-V20261015-203948",
   "mode": "atomic-tag"
 }
