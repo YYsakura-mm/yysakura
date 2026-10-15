@@ -35,7 +35,8 @@
     "选择英雄植物.zjs",
     "重启王者.zjs",
     "王者桌面启动.zjs",
-    "总控多功能版.zjs"
+    "总控多功能版.zjs",
+    "收割预检.zjs"
   ],
   "ignoredExtraZjs": true,
   "autoDiscovery": "best-effort-with-manual-registration"

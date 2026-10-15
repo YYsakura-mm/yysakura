@@ -1,17 +1,22 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261015-112716",
-  "versionId": "V20261015-112716",
-  "parentVersionId": "V20261014-165837",
-  "publishedAt": "2026-10-15 11:27:16",
-  "displayTime": "10-15 11:27",
-  "displayName": "10-15 11:27｜关闭广告优化+1 ，这个版本还行",
-  "note": "关闭广告优化+1 ，这个版本还行",
-  "fileCount": 33,
-  "changedCount": 1,
+  "id": "V20261015-142243",
+  "versionId": "V20261015-142243",
+  "parentVersionId": "V20261015-112716",
+  "publishedAt": "2026-10-15 14:22:43",
+  "displayTime": "10-15 14:22",
+  "displayName": "10-15 14:22｜大改了， 也许不稳定",
+  "note": "大改了， 也许不稳定",
+  "fileCount": 34,
+  "changedCount": 6,
   "changedFiles": [
-    "关广告.zjs"
+    "1v1.zjs",
+    "浇水领奖.zjs",
+    "重启王者.zjs",
+    "王者桌面启动.zjs",
+    "总控多功能版.zjs",
+    "收割预检.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -47,9 +52,10 @@
     "选择英雄植物.zjs",
     "重启王者.zjs",
     "王者桌面启动.zjs",
-    "总控多功能版.zjs"
+    "总控多功能版.zjs",
+    "收割预检.zjs"
   ],
-  "tagName": "farm-v5-V20261015-112716",
-  "snapshotSha": "farm-v5-V20261015-112716",
+  "tagName": "farm-v5-V20261015-142243",
+  "snapshotSha": "farm-v5-V20261015-142243",
   "mode": "atomic-tag"
 }
