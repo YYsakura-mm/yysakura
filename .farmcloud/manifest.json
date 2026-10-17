@@ -36,7 +36,8 @@
     "重启王者.zjs",
     "王者桌面启动.zjs",
     "总控多功能版.zjs",
-    "收割预检.zjs"
+    "收割预检.zjs",
+    "农场补传.zjs"
   ],
   "ignoredExtraZjs": true,
   "autoDiscovery": "best-effort-with-manual-registration"

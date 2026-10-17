@@ -1,19 +1,22 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261017-185028",
-  "versionId": "V20261017-185028",
-  "parentVersionId": "V20261015-203948",
-  "publishedAt": "2026-10-17 18:50:28",
-  "displayTime": "10-17 18:50",
-  "displayName": "10-17 18:50｜修复植物选择，修复选区",
-  "note": "修复植物选择，修复选区",
-  "fileCount": 34,
-  "changedCount": 3,
+  "id": "V20261018-002917",
+  "versionId": "V20261018-002917",
+  "parentVersionId": "V20261017-185028",
+  "publishedAt": "2026-10-18 00:29:17",
+  "displayTime": "10-18 00:29",
+  "displayName": "10-18 00:29｜大改上传",
+  "note": "大改上传",
+  "fileCount": 35,
+  "changedCount": 6,
   "changedFiles": [
-    "总控.zjs",
-    "换经济作物.zjs",
-    "总控多功能版.zjs"
+    "初始化OCR.zjs",
+    "查看状态.zjs",
+    "祝福.zjs",
+    "祝福识别收方.zjs",
+    "祝福识别送方.zjs",
+    "农场补传.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -50,9 +53,10 @@
     "重启王者.zjs",
     "王者桌面启动.zjs",
     "总控多功能版.zjs",
-    "收割预检.zjs"
+    "收割预检.zjs",
+    "农场补传.zjs"
   ],
-  "tagName": "farm-v5-V20261017-185028",
-  "snapshotSha": "farm-v5-V20261017-185028",
+  "tagName": "farm-v5-V20261018-002917",
+  "snapshotSha": "farm-v5-V20261018-002917",
   "mode": "atomic-tag"
 }
