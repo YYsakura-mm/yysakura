@@ -1,22 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261018-002917",
-  "versionId": "V20261018-002917",
-  "parentVersionId": "V20261017-185028",
-  "publishedAt": "2026-10-18 00:29:17",
-  "displayTime": "10-18 00:29",
-  "displayName": "10-18 00:29｜大改上传",
-  "note": "大改上传",
-  "fileCount": 35,
-  "changedCount": 6,
+  "id": "V20261018-023142",
+  "versionId": "V20261018-023142",
+  "parentVersionId": "V20261018-002917",
+  "publishedAt": "2026-10-18 02:31:42",
+  "displayTime": "10-18 02:31",
+  "displayName": "10-18 02:31｜巡田",
+  "note": "巡田",
+  "fileCount": 36,
+  "changedCount": 3,
   "changedFiles": [
-    "初始化OCR.zjs",
-    "查看状态.zjs",
-    "祝福.zjs",
-    "祝福识别收方.zjs",
-    "祝福识别送方.zjs",
-    "农场补传.zjs"
+    "变异植物上传.zjs",
+    "总控多功能版.zjs",
+    "巡田扫描24田.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -54,9 +51,10 @@
     "王者桌面启动.zjs",
     "总控多功能版.zjs",
     "收割预检.zjs",
-    "农场补传.zjs"
+    "农场补传.zjs",
+    "巡田扫描24田.zjs"
   ],
-  "tagName": "farm-v5-V20261018-002917",
-  "snapshotSha": "farm-v5-V20261018-002917",
+  "tagName": "farm-v5-V20261018-023142",
+  "snapshotSha": "farm-v5-V20261018-023142",
   "mode": "atomic-tag"
 }
