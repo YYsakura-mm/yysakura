@@ -1,17 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261015-203948",
-  "versionId": "V20261015-203948",
-  "parentVersionId": "V20261015-161851",
-  "publishedAt": "2026-10-15 20:39:48",
-  "displayTime": "10-15 20:39",
-  "displayName": "10-15 20:39｜领种子",
-  "note": "领种子",
+  "id": "V20261017-185028",
+  "versionId": "V20261017-185028",
+  "parentVersionId": "V20261015-203948",
+  "publishedAt": "2026-10-17 18:50:28",
+  "displayTime": "10-17 18:50",
+  "displayName": "10-17 18:50｜修复植物选择，修复选区",
+  "note": "修复植物选择，修复选区",
   "fileCount": 34,
-  "changedCount": 1,
+  "changedCount": 3,
   "changedFiles": [
-    "浇水领奖.zjs"
+    "总控.zjs",
+    "换经济作物.zjs",
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -50,7 +52,7 @@
     "总控多功能版.zjs",
     "收割预检.zjs"
   ],
-  "tagName": "farm-v5-V20261015-203948",
-  "snapshotSha": "farm-v5-V20261015-203948",
+  "tagName": "farm-v5-V20261017-185028",
+  "snapshotSha": "farm-v5-V20261017-185028",
   "mode": "atomic-tag"
 }
