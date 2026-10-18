@@ -1,19 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261018-023142",
-  "versionId": "V20261018-023142",
-  "parentVersionId": "V20261018-002917",
-  "publishedAt": "2026-10-18 02:31:42",
-  "displayTime": "10-18 02:31",
-  "displayName": "10-18 02:31｜巡田",
-  "note": "巡田",
+  "id": "V20261018-191502",
+  "versionId": "V20261018-191502",
+  "parentVersionId": "V20261018-023142",
+  "publishedAt": "2026-10-18 19:15:02",
+  "displayTime": "10-18 19:15",
+  "displayName": "10-18 19:15｜修复卡死",
+  "note": "修复卡死",
   "fileCount": 36,
-  "changedCount": 3,
+  "changedCount": 2,
   "changedFiles": [
-    "变异植物上传.zjs",
-    "总控多功能版.zjs",
-    "巡田扫描24田.zjs"
+    "王者桌面启动.zjs",
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -54,7 +53,7 @@
     "农场补传.zjs",
     "巡田扫描24田.zjs"
   ],
-  "tagName": "farm-v5-V20261018-023142",
-  "snapshotSha": "farm-v5-V20261018-023142",
+  "tagName": "farm-v5-V20261018-191502",
+  "snapshotSha": "farm-v5-V20261018-191502",
   "mode": "atomic-tag"
 }
