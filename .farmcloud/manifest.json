@@ -38,7 +38,8 @@
     "总控多功能版.zjs",
     "收割预检.zjs",
     "农场补传.zjs",
-    "巡田扫描24田.zjs"
+    "巡田扫描24田.zjs",
+    "关闭王者.zjs"
   ],
   "ignoredExtraZjs": true,
   "autoDiscovery": "best-effort-with-manual-registration"

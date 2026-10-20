@@ -1,18 +1,21 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261018-191502",
-  "versionId": "V20261018-191502",
-  "parentVersionId": "V20261018-023142",
-  "publishedAt": "2026-10-18 19:15:02",
-  "displayTime": "10-18 19:15",
-  "displayName": "10-18 19:15｜修复卡死",
-  "note": "修复卡死",
-  "fileCount": 36,
-  "changedCount": 2,
+  "id": "V20261020-095003",
+  "versionId": "V20261020-095003",
+  "parentVersionId": "V20261018-191502",
+  "publishedAt": "2026-10-20 09:50:03",
+  "displayTime": "10-20 09:50",
+  "displayName": "10-20 09:50｜修复卡死，尝试下，上个版本不错的，基本没有问题",
+  "note": "修复卡死，尝试下，上个版本不错的，基本没有问题",
+  "fileCount": 37,
+  "changedCount": 5,
   "changedFiles": [
+    "关广告.zjs",
+    "退出农场.zjs",
     "王者桌面启动.zjs",
-    "总控多功能版.zjs"
+    "总控多功能版.zjs",
+    "关闭王者.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -51,9 +54,10 @@
     "总控多功能版.zjs",
     "收割预检.zjs",
     "农场补传.zjs",
-    "巡田扫描24田.zjs"
+    "巡田扫描24田.zjs",
+    "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261018-191502",
-  "snapshotSha": "farm-v5-V20261018-191502",
+  "tagName": "farm-v5-V20261020-095003",
+  "snapshotSha": "farm-v5-V20261020-095003",
   "mode": "atomic-tag"
 }
