@@ -1,18 +1,20 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261020-101556",
-  "versionId": "V20261020-101556",
-  "parentVersionId": "V20261020-095003",
-  "publishedAt": "2026-10-20 10:15:56",
-  "displayTime": "10-20 10:15",
-  "displayName": "10-20 10:15｜上个版本重启有问题，现在试着修复",
-  "note": "上个版本重启有问题，现在试着修复",
+  "id": "V20261020-165547",
+  "versionId": "V20261020-165547",
+  "parentVersionId": "V20261020-101556",
+  "publishedAt": "2026-10-20 16:55:47",
+  "displayTime": "10-20 16:55",
+  "displayName": "10-20 16:55｜兼容性优化，可能好了",
+  "note": "兼容性优化，可能好了",
   "fileCount": 37,
-  "changedCount": 2,
+  "changedCount": 4,
   "changedFiles": [
+    "浇水领奖.zjs",
     "退出农场.zjs",
-    "关闭王者.zjs"
+    "王者桌面启动.zjs",
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -54,7 +56,7 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261020-101556",
-  "snapshotSha": "farm-v5-V20261020-101556",
+  "tagName": "farm-v5-V20261020-165547",
+  "snapshotSha": "farm-v5-V20261020-165547",
   "mode": "atomic-tag"
 }
