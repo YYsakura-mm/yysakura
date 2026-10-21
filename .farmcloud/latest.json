@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261021-105507",
-  "versionId": "V20261021-105507",
-  "parentVersionId": "V20261021-102546",
-  "publishedAt": "2026-10-21 10:55:07",
-  "displayTime": "10-21 10:55",
-  "displayName": "10-21 10:55｜继续更新",
-  "note": "继续更新",
+  "id": "V20261021-121239",
+  "versionId": "V20261021-121239",
+  "parentVersionId": "V20261021-105507",
+  "publishedAt": "2026-10-21 12:12:39",
+  "displayTime": "10-21 12:12",
+  "displayName": "10-21 12:12｜11测了没啥问题",
+  "note": "11测了没啥问题",
   "fileCount": 37,
   "changedCount": 2,
   "changedFiles": [
-    "换经济作物.zjs",
+    "1v1.zjs",
     "退出农场.zjs"
   ],
   "removedLegacyFiles": [],
@@ -54,7 +54,7 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261021-105507",
-  "snapshotSha": "farm-v5-V20261021-105507",
+  "tagName": "farm-v5-V20261021-121239",
+  "snapshotSha": "farm-v5-V20261021-121239",
   "mode": "atomic-tag"
 }
