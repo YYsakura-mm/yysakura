@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261021-165823",
-  "versionId": "V20261021-165823",
-  "parentVersionId": "V20261021-121239",
-  "publishedAt": "2026-10-21 16:58:23",
-  "displayTime": "10-21 16:58",
-  "displayName": "10-21 16:58｜差不多好了，上一版也可以用，这一次是修复退出的空白bug",
-  "note": "差不多好了，上一版也可以用，这一次是修复退出的空白bug",
+  "id": "V20261022-015807",
+  "versionId": "V20261022-015807",
+  "parentVersionId": "V20261021-165823",
+  "publishedAt": "2026-10-22 01:58:07",
+  "displayTime": "10-22 01:58",
+  "displayName": "10-22 01:58｜选区那里的新进入，小问题修复",
+  "note": "选区那里的新进入，小问题修复",
   "fileCount": 37,
   "changedCount": 1,
   "changedFiles": [
-    "退出农场.zjs"
+    "王者桌面启动.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -53,7 +53,7 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261021-165823",
-  "snapshotSha": "farm-v5-V20261021-165823",
+  "tagName": "farm-v5-V20261022-015807",
+  "snapshotSha": "farm-v5-V20261022-015807",
   "mode": "atomic-tag"
 }
