@@ -1,18 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261023-053714",
-  "versionId": "V20261023-053714",
-  "parentVersionId": "V20261022-134228",
-  "publishedAt": "2026-10-23 05:37:14",
-  "displayTime": "10-23 05:37",
-  "displayName": "10-23 05:37｜修复牛油果和55",
-  "note": "修复牛油果和55",
+  "id": "V20261023-113524",
+  "versionId": "V20261023-113524",
+  "parentVersionId": "V20261023-053714",
+  "publishedAt": "2026-10-23 11:35:24",
+  "displayTime": "10-23 11:35",
+  "displayName": "10-23 11:35",
+  "note": "",
   "fileCount": 37,
-  "changedCount": 2,
+  "changedCount": 1,
   "changedFiles": [
-    "55.zjs",
-    "换经济作物.zjs"
+    "总控.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -54,7 +53,7 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261023-053714",
-  "snapshotSha": "farm-v5-V20261023-053714",
+  "tagName": "farm-v5-V20261023-113524",
+  "snapshotSha": "farm-v5-V20261023-113524",
   "mode": "atomic-tag"
 }
