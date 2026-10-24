@@ -1,17 +1,16 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261024-114653",
-  "versionId": "V20261024-114653",
-  "parentVersionId": "V20261023-113524",
-  "publishedAt": "2026-10-24 11:46:53",
-  "displayTime": "10-24 11:46",
-  "displayName": "10-24 11:46｜优化55和选区",
-  "note": "优化55和选区",
+  "id": "V20261024-174145",
+  "versionId": "V20261024-174145",
+  "parentVersionId": "V20261024-114653",
+  "publishedAt": "2026-10-24 17:41:45",
+  "displayTime": "10-24 17:41",
+  "displayName": "10-24 17:41｜四十多个版本了，应该好了吧，要裂开",
+  "note": "四十多个版本了，应该好了吧，要裂开",
   "fileCount": 37,
-  "changedCount": 2,
+  "changedCount": 1,
   "changedFiles": [
-    "55.zjs",
     "总控.zjs"
   ],
   "removedLegacyFiles": [],
@@ -54,7 +53,7 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261024-114653",
-  "snapshotSha": "farm-v5-V20261024-114653",
+  "tagName": "farm-v5-V20261024-174145",
+  "snapshotSha": "farm-v5-V20261024-174145",
   "mode": "atomic-tag"
 }
