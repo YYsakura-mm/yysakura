@@ -1,18 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261025-172254",
-  "versionId": "V20261025-172254",
-  "parentVersionId": "V20261025-134319",
-  "publishedAt": "2026-10-25 17:22:54",
-  "displayTime": "10-25 17:22",
-  "displayName": "10-25 17:22｜纯过渡，这个版本不能直接使用",
-  "note": "纯过渡，这个版本不能直接使用",
+  "id": "V20261025-174701",
+  "versionId": "V20261025-174701",
+  "parentVersionId": "V20261025-172254",
+  "publishedAt": "2026-10-25 17:47:01",
+  "displayTime": "10-25 17:47",
+  "displayName": "10-25 17:47｜可能可以的版本，还在测试一下",
+  "note": "可能可以的版本，还在测试一下",
   "fileCount": 37,
   "changedCount": 2,
   "changedFiles": [
-    "浇水领奖.zjs",
-    "退出农场.zjs"
+    "总控.zjs",
+    "浇水领奖.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -54,7 +54,7 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261025-172254",
-  "snapshotSha": "farm-v5-V20261025-172254",
+  "tagName": "farm-v5-V20261025-174701",
+  "snapshotSha": "farm-v5-V20261025-174701",
   "mode": "atomic-tag"
 }
