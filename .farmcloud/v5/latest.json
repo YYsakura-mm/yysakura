@@ -1,21 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261025-134319",
-  "versionId": "V20261025-134319",
-  "parentVersionId": "V20261024-174145",
-  "publishedAt": "2026-10-25 13:43:19",
-  "displayTime": "10-25 13:43",
-  "displayName": "10-25 13:43｜上个版本还能用，这个版本优化体验",
-  "note": "上个版本还能用，这个版本优化体验",
+  "id": "V20261025-172254",
+  "versionId": "V20261025-172254",
+  "parentVersionId": "V20261025-134319",
+  "publishedAt": "2026-10-25 17:22:54",
+  "displayTime": "10-25 17:22",
+  "displayName": "10-25 17:22｜纯过渡，这个版本不能直接使用",
+  "note": "纯过渡，这个版本不能直接使用",
   "fileCount": 37,
-  "changedCount": 5,
+  "changedCount": 2,
   "changedFiles": [
-    "关广告.zjs",
-    "总控.zjs",
-    "选择英雄植物.zjs",
-    "王者桌面启动.zjs",
-    "关闭王者.zjs"
+    "浇水领奖.zjs",
+    "退出农场.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -57,7 +54,7 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs"
   ],
-  "tagName": "farm-v5-V20261025-134319",
-  "snapshotSha": "farm-v5-V20261025-134319",
+  "tagName": "farm-v5-V20261025-172254",
+  "snapshotSha": "farm-v5-V20261025-172254",
   "mode": "atomic-tag"
 }
