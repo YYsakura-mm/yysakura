@@ -1,19 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261026-135012",
-  "versionId": "V20261026-135012",
-  "parentVersionId": "V20261025-174701",
-  "publishedAt": "2026-10-26 13:50:12",
-  "displayTime": "10-26 13:50",
-  "displayName": "10-26 13:50｜体验优化，上个版本也可以用",
-  "note": "体验优化，上个版本也可以用",
-  "fileCount": 37,
+  "id": "V20261026-192754",
+  "versionId": "V20261026-192754",
+  "parentVersionId": "V20261026-135012",
+  "publishedAt": "2026-10-26 19:27:54",
+  "displayTime": "10-26 19:27",
+  "displayName": "10-26 19:27｜优化体验，上个版本也还行，优化了闪退bug",
+  "note": "优化体验，上个版本也还行，优化了闪退bug",
+  "fileCount": 38,
   "changedCount": 3,
   "changedFiles": [
-    "变异植物识别.zjs",
-    "总控.zjs",
-    "收割判定.zjs"
+    "关广告.zjs",
+    "关闭王者.zjs",
+    "农场方案清理器.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -53,9 +53,10 @@
     "收割预检.zjs",
     "农场补传.zjs",
     "巡田扫描24田.zjs",
-    "关闭王者.zjs"
+    "关闭王者.zjs",
+    "农场方案清理器.zjs"
   ],
-  "tagName": "farm-v5-V20261026-135012",
-  "snapshotSha": "farm-v5-V20261026-135012",
+  "tagName": "farm-v5-V20261026-192754",
+  "snapshotSha": "farm-v5-V20261026-192754",
   "mode": "atomic-tag"
 }
