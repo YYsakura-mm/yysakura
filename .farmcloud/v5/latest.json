@@ -1,17 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261028-103212",
-  "versionId": "V20261028-103212",
-  "parentVersionId": "V20261028-102632",
-  "publishedAt": "2026-10-28 10:32:12",
-  "displayTime": "10-28 10:32",
-  "displayName": "10-28 10:32｜龙胆花优化",
-  "note": "龙胆花优化",
+  "id": "V20261028-111103",
+  "versionId": "V20261028-111103",
+  "parentVersionId": "V20261028-103212",
+  "publishedAt": "2026-10-28 11:11:03",
+  "displayTime": "10-28 11:11",
+  "displayName": "10-28 11:11｜上一版有bug，不能用，修复重启",
+  "note": "上一版有bug，不能用，修复重启",
   "fileCount": 39,
-  "changedCount": 1,
+  "changedCount": 2,
   "changedFiles": [
-    "选择英雄植物.zjs"
+    "总控.zjs",
+    "查看状态.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -55,7 +56,7 @@
     "农场方案清理器.zjs",
     "切换到新服务器.zjs"
   ],
-  "tagName": "farm-v5-V20261028-103212",
-  "snapshotSha": "farm-v5-V20261028-103212",
+  "tagName": "farm-v5-V20261028-111103",
+  "snapshotSha": "farm-v5-V20261028-111103",
   "mode": "atomic-tag"
 }
