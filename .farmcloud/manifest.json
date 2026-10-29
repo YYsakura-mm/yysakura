@@ -41,7 +41,8 @@
     "巡田扫描24田.zjs",
     "关闭王者.zjs",
     "农场方案清理器.zjs",
-    "切换到新服务器.zjs"
+    "切换到新服务器.zjs",
+    "跳区设置.zjs"
   ],
   "ignoredExtraZjs": true,
   "autoDiscovery": "best-effort-with-manual-registration"
