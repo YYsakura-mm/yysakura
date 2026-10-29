@@ -1,19 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261029-163016",
-  "versionId": "V20261029-163016",
-  "parentVersionId": "V20261029-162229",
-  "publishedAt": "2026-10-29 16:30:16",
-  "displayTime": "10-29 16:30",
-  "displayName": "10-29 16:30｜测试服务器",
-  "note": "测试服务器",
+  "id": "V20261029-221216",
+  "versionId": "V20261029-221216",
+  "parentVersionId": "V20261029-163016",
+  "publishedAt": "2026-10-29 22:12:16",
+  "displayTime": "10-29 22:12",
+  "displayName": "10-29 22:12｜大测试版慎用",
+  "note": "大测试版慎用",
   "fileCount": 40,
-  "changedCount": 3,
+  "changedCount": 2,
   "changedFiles": [
-    "总控.zjs",
-    "祝福.zjs",
-    "总控多功能版.zjs"
+    "退出农场.zjs",
+    "选择英雄植物.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -58,7 +57,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261029-163016",
-  "snapshotSha": "farm-v5-V20261029-163016",
+  "tagName": "farm-v5-V20261029-221216",
+  "snapshotSha": "farm-v5-V20261029-221216",
   "mode": "atomic-tag"
 }
