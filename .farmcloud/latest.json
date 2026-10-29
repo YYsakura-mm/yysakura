@@ -1,17 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261029-162229",
-  "versionId": "V20261029-162229",
-  "parentVersionId": "V20261028-123450",
-  "publishedAt": "2026-10-29 16:22:29",
-  "displayTime": "10-29 16:22",
-  "displayName": "10-29 16:22｜小存档，",
-  "note": "小存档，",
+  "id": "V20261029-163016",
+  "versionId": "V20261029-163016",
+  "parentVersionId": "V20261029-162229",
+  "publishedAt": "2026-10-29 16:30:16",
+  "displayTime": "10-29 16:30",
+  "displayName": "10-29 16:30｜测试服务器",
+  "note": "测试服务器",
   "fileCount": 40,
-  "changedCount": 1,
+  "changedCount": 3,
   "changedFiles": [
-    "跳区设置.zjs"
+    "总控.zjs",
+    "祝福.zjs",
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -56,7 +58,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261029-162229",
-  "snapshotSha": "farm-v5-V20261029-162229",
+  "tagName": "farm-v5-V20261029-163016",
+  "snapshotSha": "farm-v5-V20261029-163016",
   "mode": "atomic-tag"
 }
