@@ -1,13 +1,13 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261030-025208",
-  "versionId": "V20261030-025208",
-  "parentVersionId": "V20261030-014048",
-  "publishedAt": "2026-10-30 02:52:08",
-  "displayTime": "10-30 02:52",
-  "displayName": "10-30 02:52｜收割好了",
-  "note": "收割好了",
+  "id": "V20261030-082643",
+  "versionId": "V20261030-082643",
+  "parentVersionId": "V20261030-025208",
+  "publishedAt": "2026-10-30 08:26:43",
+  "displayTime": "10-30 08:26",
+  "displayName": "10-30 08:26｜退出修复，前面几个版本不能用",
+  "note": "退出修复，前面几个版本不能用",
   "fileCount": 40,
   "changedCount": 1,
   "changedFiles": [
@@ -56,7 +56,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261030-025208",
-  "snapshotSha": "farm-v5-V20261030-025208",
+  "tagName": "farm-v5-V20261030-082643",
+  "snapshotSha": "farm-v5-V20261030-082643",
   "mode": "atomic-tag"
 }
