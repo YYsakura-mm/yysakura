@@ -1,13 +1,13 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261031-172758",
-  "versionId": "V20261031-172758",
-  "parentVersionId": "V20261031-132103",
-  "publishedAt": "2026-10-31 17:27:58",
-  "displayTime": "10-31 17:27",
-  "displayName": "10-31 17:27｜小优化",
-  "note": "小优化",
+  "id": "V20261031-175707",
+  "versionId": "V20261031-175707",
+  "parentVersionId": "V20261031-172758",
+  "publishedAt": "2026-10-31 17:57:07",
+  "displayTime": "10-31 17:57",
+  "displayName": "10-31 17:57｜广告+1",
+  "note": "广告+1",
   "fileCount": 40,
   "changedCount": 1,
   "changedFiles": [
@@ -56,7 +56,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261031-172758",
-  "snapshotSha": "farm-v5-V20261031-172758",
+  "tagName": "farm-v5-V20261031-175707",
+  "snapshotSha": "farm-v5-V20261031-175707",
   "mode": "atomic-tag"
 }
