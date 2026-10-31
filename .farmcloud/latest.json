@@ -1,21 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261031-132103",
-  "versionId": "V20261031-132103",
-  "parentVersionId": "V20261031-105424",
-  "publishedAt": "2026-10-31 13:21:03",
-  "displayTime": "10-31 13:21",
-  "displayName": "10-31 13:21｜大改收割和对战，谨慎使用，再测试",
-  "note": "大改收割和对战，谨慎使用，再测试",
+  "id": "V20261031-172758",
+  "versionId": "V20261031-172758",
+  "parentVersionId": "V20261031-132103",
+  "publishedAt": "2026-10-31 17:27:58",
+  "displayTime": "10-31 17:27",
+  "displayName": "10-31 17:27｜小优化",
+  "note": "小优化",
   "fileCount": 40,
-  "changedCount": 5,
+  "changedCount": 1,
   "changedFiles": [
-    "1v1.zjs",
-    "55.zjs",
-    "保守24田收割.zjs",
-    "变异植物识别.zjs",
-    "收割判定.zjs"
+    "关广告.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -60,7 +56,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261031-132103",
-  "snapshotSha": "farm-v5-V20261031-132103",
+  "tagName": "farm-v5-V20261031-172758",
+  "snapshotSha": "farm-v5-V20261031-172758",
   "mode": "atomic-tag"
 }
