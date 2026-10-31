@@ -1,17 +1,21 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261031-175707",
-  "versionId": "V20261031-175707",
-  "parentVersionId": "V20261031-172758",
-  "publishedAt": "2026-10-31 17:57:07",
-  "displayTime": "10-31 17:57",
-  "displayName": "10-31 17:57｜广告+1",
-  "note": "广告+1",
+  "id": "V20261031-205552",
+  "versionId": "V20261031-205552",
+  "parentVersionId": "V20261031-175707",
+  "publishedAt": "2026-10-31 20:55:52",
+  "displayTime": "10-31 20:55",
+  "displayName": "10-31 20:55｜测试测试，不稳定",
+  "note": "测试测试，不稳定",
   "fileCount": 40,
-  "changedCount": 1,
+  "changedCount": 5,
   "changedFiles": [
-    "关广告.zjs"
+    "保变异收割.zjs",
+    "保守24田收割.zjs",
+    "总控.zjs",
+    "查看状态.zjs",
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -56,7 +60,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261031-175707",
-  "snapshotSha": "farm-v5-V20261031-175707",
+  "tagName": "farm-v5-V20261031-205552",
+  "snapshotSha": "farm-v5-V20261031-205552",
   "mode": "atomic-tag"
 }
