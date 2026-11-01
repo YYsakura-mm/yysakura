@@ -1,20 +1,22 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261101-185019",
-  "versionId": "V20261101-185019",
-  "parentVersionId": "V20261101-173252",
-  "publishedAt": "2026-11-01 18:50:19",
-  "displayTime": "11-01 18:50",
-  "displayName": "11-01 18:50｜速度式更新",
-  "note": "速度式更新",
+  "id": "V20261102-005409",
+  "versionId": "V20261102-005409",
+  "parentVersionId": "V20261101-185019",
+  "publishedAt": "2026-11-02 00:54:09",
+  "displayTime": "11-02 00:54",
+  "displayName": "11-02 00:54｜很多小改，稳定性有待测试",
+  "note": "很多小改，稳定性有待测试",
   "fileCount": 40,
-  "changedCount": 4,
+  "changedCount": 6,
   "changedFiles": [
-    "初始化OCR.zjs",
-    "查看状态.zjs",
-    "浇水领奖.zjs",
-    "退出农场.zjs"
+    "一键种植.zjs",
+    "保变异收割.zjs",
+    "农场脚本下载.zjs",
+    "农场脚本版本更新器.zjs",
+    "总控.zjs",
+    "浇水领奖.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -59,7 +61,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261101-185019",
-  "snapshotSha": "farm-v5-V20261101-185019",
+  "tagName": "farm-v5-V20261102-005409",
+  "snapshotSha": "farm-v5-V20261102-005409",
   "mode": "atomic-tag"
 }
