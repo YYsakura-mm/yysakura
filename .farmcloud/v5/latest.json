@@ -1,17 +1,24 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261102-120506",
-  "versionId": "V20261102-120506",
-  "parentVersionId": "V20261102-114048",
-  "publishedAt": "2026-11-02 12:05:06",
-  "displayTime": "11-02 12:05",
-  "displayName": "11-02 12:05｜农场详情好了",
-  "note": "农场详情好了",
+  "id": "V20261104-000936",
+  "versionId": "V20261104-000936",
+  "parentVersionId": "V20261102-120506",
+  "publishedAt": "2026-11-04 00:09:36",
+  "displayTime": "11-04 00:09",
+  "displayName": "11-04 00:09｜更新了多王者",
+  "note": "更新了多王者",
   "fileCount": 40,
-  "changedCount": 1,
+  "changedCount": 8,
   "changedFiles": [
-    "查看状态.zjs"
+    "一键种植.zjs",
+    "保变异收割.zjs",
+    "总控.zjs",
+    "浇水领奖.zjs",
+    "退出农场.zjs",
+    "选择英雄植物.zjs",
+    "王者桌面启动.zjs",
+    "关闭王者.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -56,7 +63,7 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs"
   ],
-  "tagName": "farm-v5-V20261102-120506",
-  "snapshotSha": "farm-v5-V20261102-120506",
+  "tagName": "farm-v5-V20261104-000936",
+  "snapshotSha": "farm-v5-V20261104-000936",
   "mode": "atomic-tag"
 }
