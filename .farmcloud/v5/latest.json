@@ -1,20 +1,22 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261105-164156",
-  "versionId": "V20261105-164156",
-  "parentVersionId": "V20261105-110709",
-  "publishedAt": "2026-11-05 16:41:56",
-  "displayTime": "11-05 16:41",
-  "displayName": "11-05 16:41｜总控bug",
-  "note": "总控bug",
-  "fileCount": 41,
-  "changedCount": 4,
+  "id": "V20261105-194237",
+  "versionId": "V20261105-194237",
+  "parentVersionId": "V20261105-164156",
+  "publishedAt": "2026-11-05 19:42:37",
+  "displayTime": "11-05 19:42",
+  "displayName": "11-05 19:42｜改了很多，测试不够",
+  "note": "改了很多，测试不够",
+  "fileCount": 42,
+  "changedCount": 6,
   "changedFiles": [
     "总控.zjs",
-    "浇水领奖.zjs",
-    "进游戏关闭广告.zjs",
-    "普通祝福.zjs"
+    "祝福.zjs",
+    "退出农场.zjs",
+    "王者桌面启动.zjs",
+    "普通祝福.zjs",
+    "智能祝福.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -58,9 +60,10 @@
     "农场方案清理器.zjs",
     "切换到新服务器.zjs",
     "跳区设置.zjs",
-    "普通祝福.zjs"
+    "普通祝福.zjs",
+    "智能祝福.zjs"
   ],
-  "tagName": "farm-v5-V20261105-164156",
-  "snapshotSha": "farm-v5-V20261105-164156",
+  "tagName": "farm-v5-V20261105-194237",
+  "snapshotSha": "farm-v5-V20261105-194237",
   "mode": "atomic-tag"
 }
