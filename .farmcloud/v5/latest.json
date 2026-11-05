@@ -1,22 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261105-194237",
-  "versionId": "V20261105-194237",
-  "parentVersionId": "V20261105-164156",
-  "publishedAt": "2026-11-05 19:42:37",
-  "displayTime": "11-05 19:42",
-  "displayName": "11-05 19:42｜改了很多，测试不够",
-  "note": "改了很多，测试不够",
+  "id": "V20261105-213227",
+  "versionId": "V20261105-213227",
+  "parentVersionId": "V20261105-194237",
+  "publishedAt": "2026-11-05 21:32:27",
+  "displayTime": "11-05 21:32",
+  "displayName": "11-05 21:32｜种植bug",
+  "note": "种植bug",
   "fileCount": 42,
-  "changedCount": 6,
+  "changedCount": 3,
   "changedFiles": [
-    "总控.zjs",
-    "祝福.zjs",
-    "退出农场.zjs",
-    "王者桌面启动.zjs",
-    "普通祝福.zjs",
-    "智能祝福.zjs"
+    "关广告.zjs",
+    "浇水领奖.zjs",
+    "选择英雄植物.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -63,7 +60,7 @@
     "普通祝福.zjs",
     "智能祝福.zjs"
   ],
-  "tagName": "farm-v5-V20261105-194237",
-  "snapshotSha": "farm-v5-V20261105-194237",
+  "tagName": "farm-v5-V20261105-213227",
+  "snapshotSha": "farm-v5-V20261105-213227",
   "mode": "atomic-tag"
 }
