@@ -1,17 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261106-181836",
-  "versionId": "V20261106-181836",
-  "parentVersionId": "V20261106-172644",
-  "publishedAt": "2026-11-06 18:18:36",
-  "displayTime": "11-06 18:18",
-  "displayName": "11-06 18:18｜修复祝福",
-  "note": "修复祝福",
+  "id": "V20261107-012744",
+  "versionId": "V20261107-012744",
+  "parentVersionId": "V20261106-181836",
+  "publishedAt": "2026-11-07 01:27:44",
+  "displayTime": "11-07 01:27",
+  "displayName": "11-07 01:27｜优化++",
+  "note": "优化++",
   "fileCount": 42,
-  "changedCount": 1,
+  "changedCount": 3,
   "changedFiles": [
-    "总控.zjs"
+    "总控.zjs",
+    "查看状态.zjs",
+    "选择英雄植物.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -58,7 +60,7 @@
     "普通祝福.zjs",
     "智能祝福.zjs"
   ],
-  "tagName": "farm-v5-V20261106-181836",
-  "snapshotSha": "farm-v5-V20261106-181836",
+  "tagName": "farm-v5-V20261107-012744",
+  "snapshotSha": "farm-v5-V20261107-012744",
   "mode": "atomic-tag"
 }
