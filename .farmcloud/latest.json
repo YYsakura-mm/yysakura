@@ -1,22 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261108-011157",
-  "versionId": "V20261108-011157",
-  "parentVersionId": "V20261108-002650",
-  "publishedAt": "2026-11-08 01:11:57",
-  "displayTime": "11-08 01:11",
-  "displayName": "11-08 01:11｜收割和取消获收",
-  "note": "收割和取消获收",
+  "id": "V20261108-031224",
+  "versionId": "V20261108-031224",
+  "parentVersionId": "V20261108-011157",
+  "publishedAt": "2026-11-08 03:12:24",
+  "displayTime": "11-08 03:12",
+  "displayName": "11-08 03:12",
+  "note": "",
   "fileCount": 42,
-  "changedCount": 6,
+  "changedCount": 2,
   "changedFiles": [
-    "一键种植.zjs",
-    "保变异收割.zjs",
-    "保守24田收割.zjs",
-    "变异植物识别.zjs",
-    "收割判定.zjs",
-    "浇水领奖.zjs"
+    "总控.zjs",
+    "王者桌面启动.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -63,7 +59,7 @@
     "普通祝福.zjs",
     "智能祝福.zjs"
   ],
-  "tagName": "farm-v5-V20261108-011157",
-  "snapshotSha": "farm-v5-V20261108-011157",
+  "tagName": "farm-v5-V20261108-031224",
+  "snapshotSha": "farm-v5-V20261108-031224",
   "mode": "atomic-tag"
 }
