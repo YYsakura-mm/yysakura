@@ -1,18 +1,20 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261108-031224",
-  "versionId": "V20261108-031224",
-  "parentVersionId": "V20261108-011157",
-  "publishedAt": "2026-11-08 03:12:24",
-  "displayTime": "11-08 03:12",
-  "displayName": "11-08 03:12",
-  "note": "",
-  "fileCount": 42,
-  "changedCount": 2,
+  "id": "V20261108-174030",
+  "versionId": "V20261108-174030",
+  "parentVersionId": "V20261108-031224",
+  "publishedAt": "2026-11-08 17:40:30",
+  "displayTime": "11-08 17:40",
+  "displayName": "11-08 17:40｜总控优化，可能好了，需要测试",
+  "note": "总控优化，可能好了，需要测试",
+  "fileCount": 43,
+  "changedCount": 4,
   "changedFiles": [
     "总控.zjs",
-    "王者桌面启动.zjs"
+    "浇水领奖.zjs",
+    "退出农场.zjs",
+    "农场日志一键汇总.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -57,9 +59,10 @@
     "切换到新服务器.zjs",
     "跳区设置.zjs",
     "普通祝福.zjs",
-    "智能祝福.zjs"
+    "智能祝福.zjs",
+    "农场日志一键汇总.zjs"
   ],
-  "tagName": "farm-v5-V20261108-031224",
-  "snapshotSha": "farm-v5-V20261108-031224",
+  "tagName": "farm-v5-V20261108-174030",
+  "snapshotSha": "farm-v5-V20261108-174030",
   "mode": "atomic-tag"
 }
