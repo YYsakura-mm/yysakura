@@ -1,20 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261108-174030",
-  "versionId": "V20261108-174030",
-  "parentVersionId": "V20261108-031224",
-  "publishedAt": "2026-11-08 17:40:30",
-  "displayTime": "11-08 17:40",
-  "displayName": "11-08 17:40｜总控优化，可能好了，需要测试",
-  "note": "总控优化，可能好了，需要测试",
+  "id": "V20261108-191915",
+  "versionId": "V20261108-191915",
+  "parentVersionId": "V20261108-174030",
+  "publishedAt": "2026-11-08 19:19:15",
+  "displayTime": "11-08 19:19",
+  "displayName": "11-08 19:19｜优化斗地主广告",
+  "note": "优化斗地主广告",
   "fileCount": 43,
-  "changedCount": 4,
+  "changedCount": 1,
   "changedFiles": [
-    "总控.zjs",
-    "浇水领奖.zjs",
-    "退出农场.zjs",
-    "农场日志一键汇总.zjs"
+    "关广告.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -62,7 +59,7 @@
     "智能祝福.zjs",
     "农场日志一键汇总.zjs"
   ],
-  "tagName": "farm-v5-V20261108-174030",
-  "snapshotSha": "farm-v5-V20261108-174030",
+  "tagName": "farm-v5-V20261108-191915",
+  "snapshotSha": "farm-v5-V20261108-191915",
   "mode": "atomic-tag"
 }
