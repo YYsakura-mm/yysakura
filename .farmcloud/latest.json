@@ -1,17 +1,19 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261108-231223",
-  "versionId": "V20261108-231223",
-  "parentVersionId": "V20261108-213733",
-  "publishedAt": "2026-11-08 23:12:23",
-  "displayTime": "11-08 23:12",
-  "displayName": "11-08 23:12｜英雄和总控",
-  "note": "英雄和总控",
+  "id": "V20261109-013318",
+  "versionId": "V20261109-013318",
+  "parentVersionId": "V20261108-231223",
+  "publishedAt": "2026-11-09 01:33:18",
+  "displayTime": "11-09 01:33",
+  "displayName": "11-09 01:33｜好了",
+  "note": "好了",
   "fileCount": 43,
-  "changedCount": 2,
+  "changedCount": 4,
   "changedFiles": [
-    "总控.zjs",
+    "保变异收割.zjs",
+    "关广告.zjs",
+    "进游戏关闭广告.zjs",
     "选择英雄植物.zjs"
   ],
   "removedLegacyFiles": [],
@@ -60,7 +62,7 @@
     "智能祝福.zjs",
     "农场日志一键汇总.zjs"
   ],
-  "tagName": "farm-v5-V20261108-231223",
-  "snapshotSha": "farm-v5-V20261108-231223",
+  "tagName": "farm-v5-V20261109-013318",
+  "snapshotSha": "farm-v5-V20261109-013318",
   "mode": "atomic-tag"
 }
