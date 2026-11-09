@@ -1,13 +1,13 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261109-124631",
-  "versionId": "V20261109-124631",
-  "parentVersionId": "V20261109-022351",
-  "publishedAt": "2026-11-09 12:46:31",
-  "displayTime": "11-09 12:46",
-  "displayName": "11-09 12:46｜总控，可用，但是好像会卡",
-  "note": "总控，可用，但是好像会卡",
+  "id": "V20261109-230009",
+  "versionId": "V20261109-230009",
+  "parentVersionId": "V20261109-124631",
+  "publishedAt": "2026-11-09 23:00:09",
+  "displayTime": "11-09 23:00",
+  "displayName": "11-09 23:00｜总控，可能好了",
+  "note": "总控，可能好了",
   "fileCount": 43,
   "changedCount": 1,
   "changedFiles": [
@@ -59,7 +59,7 @@
     "智能祝福.zjs",
     "农场日志一键汇总.zjs"
   ],
-  "tagName": "farm-v5-V20261109-124631",
-  "snapshotSha": "farm-v5-V20261109-124631",
+  "tagName": "farm-v5-V20261109-230009",
+  "snapshotSha": "farm-v5-V20261109-230009",
   "mode": "atomic-tag"
 }
