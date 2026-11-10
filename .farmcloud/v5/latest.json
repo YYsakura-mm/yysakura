@@ -1,22 +1,20 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261110-140516",
-  "versionId": "V20261110-140516",
-  "parentVersionId": "V20261109-230009",
-  "publishedAt": "2026-11-10 14:05:16",
-  "displayTime": "11-10 14:05",
-  "displayName": "11-10 14:05｜一堆小优化",
-  "note": "一堆小优化",
+  "id": "V20261110-163936",
+  "versionId": "V20261110-163936",
+  "parentVersionId": "V20261110-140516",
+  "publishedAt": "2026-11-10 16:39:36",
+  "displayTime": "11-10 16:39",
+  "displayName": "11-10 16:39｜精简版，测试中，上个版本可以",
+  "note": "精简版，测试中，上个版本可以",
   "fileCount": 43,
-  "changedCount": 6,
+  "changedCount": 4,
   "changedFiles": [
-    "1v1.zjs",
-    "关广告.zjs",
     "总控.zjs",
-    "进游戏关闭广告.zjs",
-    "王者桌面启动.zjs",
-    "关闭王者.zjs"
+    "祝福.zjs",
+    "普通祝福.zjs",
+    "智能祝福.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -64,7 +62,7 @@
     "智能祝福.zjs",
     "农场日志一键汇总.zjs"
   ],
-  "tagName": "farm-v5-V20261110-140516",
-  "snapshotSha": "farm-v5-V20261110-140516",
+  "tagName": "farm-v5-V20261110-163936",
+  "snapshotSha": "farm-v5-V20261110-163936",
   "mode": "atomic-tag"
 }
