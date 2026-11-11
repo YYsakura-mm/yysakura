@@ -1,20 +1,27 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261110-163936",
-  "versionId": "V20261110-163936",
-  "parentVersionId": "V20261110-140516",
-  "publishedAt": "2026-11-10 16:39:36",
-  "displayTime": "11-10 16:39",
-  "displayName": "11-10 16:39｜精简版，测试中，上个版本可以",
-  "note": "精简版，测试中，上个版本可以",
-  "fileCount": 43,
-  "changedCount": 4,
+  "id": "V20261111-140343",
+  "versionId": "V20261111-140343",
+  "parentVersionId": "V20261110-163936",
+  "publishedAt": "2026-11-11 14:03:43",
+  "displayTime": "11-11 14:03",
+  "displayName": "11-11 14:03｜测试不够，慎用",
+  "note": "测试不够，慎用",
+  "fileCount": 46,
+  "changedCount": 11,
   "changedFiles": [
+    "1v1.zjs",
+    "关广告.zjs",
+    "初始化OCR.zjs",
     "总控.zjs",
-    "祝福.zjs",
-    "普通祝福.zjs",
-    "智能祝福.zjs"
+    "换经济作物.zjs",
+    "查看状态.zjs",
+    "王者桌面启动.zjs",
+    "关闭王者.zjs",
+    "保留收割.zjs",
+    "保留变异植物识别.zjs",
+    "保留收割判定.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -60,9 +67,12 @@
     "跳区设置.zjs",
     "普通祝福.zjs",
     "智能祝福.zjs",
-    "农场日志一键汇总.zjs"
+    "农场日志一键汇总.zjs",
+    "保留收割.zjs",
+    "保留变异植物识别.zjs",
+    "保留收割判定.zjs"
   ],
-  "tagName": "farm-v5-V20261110-163936",
-  "snapshotSha": "farm-v5-V20261110-163936",
+  "tagName": "farm-v5-V20261111-140343",
+  "snapshotSha": "farm-v5-V20261111-140343",
   "mode": "atomic-tag"
 }

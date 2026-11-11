@@ -45,7 +45,10 @@
     "跳区设置.zjs",
     "普通祝福.zjs",
     "智能祝福.zjs",
-    "农场日志一键汇总.zjs"
+    "农场日志一键汇总.zjs",
+    "保留收割.zjs",
+    "保留变异植物识别.zjs",
+    "保留收割判定.zjs"
   ],
   "ignoredExtraZjs": true,
   "autoDiscovery": "best-effort-with-manual-registration"
