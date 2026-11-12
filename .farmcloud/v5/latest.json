@@ -1,25 +1,20 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261112-142450",
-  "versionId": "V20261112-142450",
-  "parentVersionId": "V20261111-171623",
-  "publishedAt": "2026-11-12 14:24:50",
-  "displayTime": "11-12 14:24",
-  "displayName": "11-12 14:24｜识别检测",
-  "note": "识别检测",
+  "id": "V20261112-170252",
+  "versionId": "V20261112-170252",
+  "parentVersionId": "V20261112-142450",
+  "publishedAt": "2026-11-12 17:02:52",
+  "displayTime": "11-12 17:02",
+  "displayName": "11-12 17:02｜收割好了",
+  "note": "收割好了",
   "fileCount": 46,
-  "changedCount": 9,
+  "changedCount": 4,
   "changedFiles": [
-    "保守24田收割.zjs",
+    "关广告.zjs",
     "总控.zjs",
-    "换经济作物.zjs",
-    "查看状态.zjs",
-    "选择英雄植物.zjs",
-    "王者桌面启动.zjs",
-    "保留收割.zjs",
-    "保留变异植物识别.zjs",
-    "保留收割判定.zjs"
+    "换16经验.zjs",
+    "选择英雄植物.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -70,7 +65,7 @@
     "保留变异植物识别.zjs",
     "保留收割判定.zjs"
   ],
-  "tagName": "farm-v5-V20261112-142450",
-  "snapshotSha": "farm-v5-V20261112-142450",
+  "tagName": "farm-v5-V20261112-170252",
+  "snapshotSha": "farm-v5-V20261112-170252",
   "mode": "atomic-tag"
 }
