@@ -1,13 +1,13 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261115-093851",
-  "versionId": "V20261115-093851",
-  "parentVersionId": "V20261114-203817",
-  "publishedAt": "2026-11-15 09:38:51",
-  "displayTime": "11-15 09:38",
-  "displayName": "11-15 09:38｜牛牛",
-  "note": "牛牛",
+  "id": "V20261115-094526",
+  "versionId": "V20261115-094526",
+  "parentVersionId": "V20261115-093851",
+  "publishedAt": "2026-11-15 09:45:26",
+  "displayTime": "11-15 09:45",
+  "displayName": "11-15 09:45｜牛牛牛+",
+  "note": "牛牛牛+",
   "fileCount": 46,
   "changedCount": 1,
   "changedFiles": [
@@ -62,7 +62,7 @@
     "保留变异植物识别.zjs",
     "保留收割判定.zjs"
   ],
-  "tagName": "farm-v5-V20261115-093851",
-  "snapshotSha": "farm-v5-V20261115-093851",
+  "tagName": "farm-v5-V20261115-094526",
+  "snapshotSha": "farm-v5-V20261115-094526",
   "mode": "atomic-tag"
 }
