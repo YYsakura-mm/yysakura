@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261115-094526",
-  "versionId": "V20261115-094526",
-  "parentVersionId": "V20261115-093851",
-  "publishedAt": "2026-11-15 09:45:26",
-  "displayTime": "11-15 09:45",
-  "displayName": "11-15 09:45｜牛牛牛+",
-  "note": "牛牛牛+",
+  "id": "V20261115-130039",
+  "versionId": "V20261115-130039",
+  "parentVersionId": "V20261115-094526",
+  "publishedAt": "2026-11-15 13:00:39",
+  "displayTime": "11-15 13:00",
+  "displayName": "11-15 13:00｜选区记忆",
+  "note": "选区记忆",
   "fileCount": 46,
   "changedCount": 1,
   "changedFiles": [
-    "换经济作物.zjs"
+    "总控.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -62,7 +62,7 @@
     "保留变异植物识别.zjs",
     "保留收割判定.zjs"
   ],
-  "tagName": "farm-v5-V20261115-094526",
-  "snapshotSha": "farm-v5-V20261115-094526",
+  "tagName": "farm-v5-V20261115-130039",
+  "snapshotSha": "farm-v5-V20261115-130039",
   "mode": "atomic-tag"
 }
