@@ -1,18 +1,23 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261115-211436",
-  "versionId": "V20261115-211436",
-  "parentVersionId": "V20261115-130039",
-  "publishedAt": "2026-11-15 21:14:36",
-  "displayTime": "11-15 21:14",
-  "displayName": "11-15 21:14｜容错",
-  "note": "容错",
+  "id": "V20261116-143102",
+  "versionId": "V20261116-143102",
+  "parentVersionId": "V20261115-211436",
+  "publishedAt": "2026-11-16 14:31:02",
+  "displayTime": "11-16 14:31",
+  "displayName": "11-16 14:31｜改了一堆，测试不够，祝福不稳",
+  "note": "改了一堆，测试不够，祝福不稳",
   "fileCount": 46,
-  "changedCount": 2,
+  "changedCount": 7,
   "changedFiles": [
+    "关广告.zjs",
     "总控.zjs",
-    "浇水领奖.zjs"
+    "换16经验.zjs",
+    "祝福.zjs",
+    "祝福判定.zjs",
+    "普通祝福.zjs",
+    "智能祝福.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -63,7 +68,7 @@
     "保留变异植物识别.zjs",
     "保留收割判定.zjs"
   ],
-  "tagName": "farm-v5-V20261115-211436",
-  "snapshotSha": "farm-v5-V20261115-211436",
+  "tagName": "farm-v5-V20261116-143102",
+  "snapshotSha": "farm-v5-V20261116-143102",
   "mode": "atomic-tag"
 }
