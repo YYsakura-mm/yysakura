@@ -1,22 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261117-171811",
-  "versionId": "V20261117-171811",
-  "parentVersionId": "V20261117-100754",
-  "publishedAt": "2026-11-17 17:18:11",
-  "displayTime": "11-17 17:18",
-  "displayName": "11-17 17:18｜测试完了，基本没问题，晚上的农场还没兼容",
-  "note": "测试完了，基本没问题，晚上的农场还没兼容",
+  "id": "V20261117-195637",
+  "versionId": "V20261117-195637",
+  "parentVersionId": "V20261117-171811",
+  "publishedAt": "2026-11-17 19:56:37",
+  "displayTime": "11-17 19:56",
+  "displayName": "11-17 19:56｜选区",
+  "note": "选区",
   "fileCount": 48,
-  "changedCount": 6,
+  "changedCount": 1,
   "changedFiles": [
-    "1v1.zjs",
-    "总控.zjs",
-    "换16经验.zjs",
-    "换经济作物.zjs",
-    "退出农场.zjs",
-    "王者桌面启动.zjs"
+    "总控多功能版.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -69,7 +64,7 @@
     "步骤耗时汇总.zjs",
     "启动来源汇总.zjs"
   ],
-  "tagName": "farm-v5-V20261117-171811",
-  "snapshotSha": "farm-v5-V20261117-171811",
+  "tagName": "farm-v5-V20261117-195637",
+  "snapshotSha": "farm-v5-V20261117-195637",
   "mode": "atomic-tag"
 }
