@@ -1,17 +1,21 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261116-143402",
-  "versionId": "V20261116-143402",
-  "parentVersionId": "V20261116-143102",
-  "publishedAt": "2026-11-16 14:34:02",
-  "displayTime": "11-16 14:34",
-  "displayName": "11-16 14:34｜上个不能用，继续测试",
-  "note": "上个不能用，继续测试",
-  "fileCount": 46,
-  "changedCount": 1,
+  "id": "V20261117-100754",
+  "versionId": "V20261117-100754",
+  "parentVersionId": "V20261116-143402",
+  "publishedAt": "2026-11-17 10:07:54",
+  "displayTime": "11-17 10:07",
+  "displayName": "11-17 10:07｜同步",
+  "note": "同步",
+  "fileCount": 48,
+  "changedCount": 5,
   "changedFiles": [
-    "浇水领奖.zjs"
+    "总控.zjs",
+    "浇水领奖.zjs",
+    "农场日志一键汇总.zjs",
+    "步骤耗时汇总.zjs",
+    "启动来源汇总.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -60,9 +64,11 @@
     "农场日志一键汇总.zjs",
     "保留收割.zjs",
     "保留变异植物识别.zjs",
-    "保留收割判定.zjs"
+    "保留收割判定.zjs",
+    "步骤耗时汇总.zjs",
+    "启动来源汇总.zjs"
   ],
-  "tagName": "farm-v5-V20261116-143402",
-  "snapshotSha": "farm-v5-V20261116-143402",
+  "tagName": "farm-v5-V20261117-100754",
+  "snapshotSha": "farm-v5-V20261117-100754",
   "mode": "atomic-tag"
 }

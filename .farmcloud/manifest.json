@@ -48,7 +48,9 @@
     "农场日志一键汇总.zjs",
     "保留收割.zjs",
     "保留变异植物识别.zjs",
-    "保留收割判定.zjs"
+    "保留收割判定.zjs",
+    "步骤耗时汇总.zjs",
+    "启动来源汇总.zjs"
   ],
   "ignoredExtraZjs": true,
   "autoDiscovery": "best-effort-with-manual-registration"
