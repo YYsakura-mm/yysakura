@@ -1,21 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "V20261119-090951",
-  "versionId": "V20261119-090951",
-  "parentVersionId": "V20261117-201015",
-  "publishedAt": "2026-11-19 09:09:51",
-  "displayTime": "11-19 09:09",
-  "displayName": "11-19 09:09｜继续测试新的",
-  "note": "继续测试新的",
+  "id": "V20261120-003301",
+  "versionId": "V20261120-003301",
+  "parentVersionId": "V20261119-090951",
+  "publishedAt": "2026-11-20 00:33:01",
+  "displayTime": "11-20 00:33",
+  "displayName": "11-20 00:33｜恢复总控定时悬浮窗",
+  "note": "恢复总控定时悬浮窗",
   "fileCount": 49,
-  "changedCount": 5,
+  "changedCount": 1,
   "changedFiles": [
-    "农场脚本下载.zjs",
-    "农场脚本版本更新器.zjs",
-    "总控.zjs",
-    "退出农场.zjs",
-    "农场云下载_一键网络修复.zjs"
+    "总控.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -69,7 +65,7 @@
     "启动来源汇总.zjs",
     "农场云下载_一键网络修复.zjs"
   ],
-  "tagName": "farm-v5-V20261119-090951",
-  "snapshotSha": "farm-v5-V20261119-090951",
+  "tagName": "farm-v5-V20261120-003301",
+  "snapshotSha": "farm-v5-V20261120-003301",
   "mode": "atomic-tag"
 }
