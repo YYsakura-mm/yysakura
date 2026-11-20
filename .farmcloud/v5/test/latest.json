@@ -1,17 +1,17 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "TV20261120-223111",
-  "versionId": "TV20261120-223111",
-  "parentVersionId": "TV20261120-222112",
-  "publishedAt": "2026-11-20 22:31:11",
-  "displayTime": "11-20 22:31",
-  "displayName": "11-20 22:31｜测试｜优化换经验",
-  "note": "改动：\n验证：1\n待验证或已知限制：",
+  "id": "TV20261120-223724",
+  "versionId": "TV20261120-223724",
+  "parentVersionId": "TV20261120-223111",
+  "publishedAt": "2026-11-20 22:37:24",
+  "displayTime": "11-20 22:37",
+  "displayName": "修复测试版转正读取总控失败",
+  "note": "【改动内容】\n测试版转为稳定版时需要生成旧设备升级包。优先复用本机脚本或下载基线中与云端测试快照指纹相同的文件，不再强制从 API 重下总控。找不到完全相同的副本时，可从 GitHub 原始文件线路读取，再回退至 API。所有来源都必须与所选测试标签一致；不把本机临时修改带入稳定版。\n\n【使用方式】\n只更新农场脚本版本发布器，再通过发布器执行转正。当前发布只更新测试渠道，未执行转正。\n\n【验证情况】\n电脑已模拟 GitHub API 读取脚本连续失败、本机临时文件不一致时从原始线路取得指定测试版本并完成转正流程。尚未在出错设备实跑。只改发布器，稳定版和农场脚本未改。",
   "fileCount": 49,
   "changedCount": 1,
   "changedFiles": [
-    "换16经验.zjs"
+    "农场脚本版本发布器.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -65,8 +65,8 @@
     "启动来源汇总.zjs",
     "农场云下载_一键网络修复.zjs"
   ],
-  "tagName": "farm-v5-test-V20261120-223111",
-  "snapshotSha": "farm-v5-test-V20261120-223111",
+  "tagName": "farm-v5-test-V20261120-223724",
+  "snapshotSha": "farm-v5-test-V20261120-223724",
   "mode": "atomic-tag",
   "channel": "test",
   "stableBaseVersionId": "V20261120-003301",
