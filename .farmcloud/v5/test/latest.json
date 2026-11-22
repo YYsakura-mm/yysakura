@@ -1,17 +1,20 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "TV20261121-221934",
-  "versionId": "TV20261121-221934",
-  "parentVersionId": "TV20261121-215126",
-  "publishedAt": "2026-11-21 22:19:34",
-  "displayTime": "11-21 22:19",
-  "displayName": "11-21 22:19｜测试｜优化一键种植，避免没取消掉。需要测试",
+  "id": "TV20261122-212229",
+  "versionId": "TV20261122-212229",
+  "parentVersionId": "TV20261121-221934",
+  "publishedAt": "2026-11-22 21:22:29",
+  "displayTime": "11-22 21:22",
+  "displayName": "11-22 21:22｜测试｜收割记录",
   "note": "改动：\n验证：1\n待验证或已知限制：",
   "fileCount": 49,
-  "changedCount": 1,
+  "changedCount": 4,
   "changedFiles": [
-    "一键种植.zjs"
+    "保守24田收割.zjs",
+    "变异植物上传.zjs",
+    "查看状态.zjs",
+    "保留收割.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -65,8 +68,8 @@
     "启动来源汇总.zjs",
     "农场云下载_一键网络修复.zjs"
   ],
-  "tagName": "farm-v5-test-V20261121-221934",
-  "snapshotSha": "farm-v5-test-V20261121-221934",
+  "tagName": "farm-v5-test-V20261122-212229",
+  "snapshotSha": "farm-v5-test-V20261122-212229",
   "mode": "atomic-tag",
   "channel": "test",
   "stableBaseVersionId": "V20261120-224338",
