@@ -1,19 +1,18 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "TV20261123-104835",
-  "versionId": "TV20261123-104835",
-  "parentVersionId": "TV20261122-212229",
-  "publishedAt": "2026-11-23 10:48:35",
-  "displayTime": "11-23 10:48",
-  "displayName": "11-23 10:48｜测试｜经验和去广告的背包",
-  "note": "改动：\n验证：11\n待验证或已知限制：1",
+  "id": "TV20261123-201052",
+  "versionId": "TV20261123-201052",
+  "parentVersionId": "TV20261123-104835",
+  "publishedAt": "2026-11-23 20:10:52",
+  "displayTime": "11-23 20:10",
+  "displayName": "11-23 20:10｜测试｜退出农场新的兼容",
+  "note": "改动：\n验证：1\n待验证或已知限制：",
   "fileCount": 49,
-  "changedCount": 3,
+  "changedCount": 2,
   "changedFiles": [
-    "关广告.zjs",
-    "十田经济种植.zjs",
-    "换16经验.zjs"
+    "退出农场.zjs",
+    "王者桌面启动.zjs"
   ],
   "removedLegacyFiles": [],
   "managedFiles": [
@@ -67,8 +66,8 @@
     "启动来源汇总.zjs",
     "农场云下载_一键网络修复.zjs"
   ],
-  "tagName": "farm-v5-test-V20261123-104835",
-  "snapshotSha": "farm-v5-test-V20261123-104835",
+  "tagName": "farm-v5-test-V20261123-201052",
+  "snapshotSha": "farm-v5-test-V20261123-201052",
   "mode": "atomic-tag",
   "channel": "test",
   "stableBaseVersionId": "V20261120-224338",
