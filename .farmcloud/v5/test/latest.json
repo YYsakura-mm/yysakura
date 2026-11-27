@@ -1,17 +1,22 @@
 {
   "schema": 5,
   "syncSchema": 60,
-  "id": "TV20261127-105535",
-  "versionId": "TV20261127-105535",
-  "parentVersionId": "TV20261126-230550",
-  "publishedAt": "2026-11-27 10:55:35",
-  "displayTime": "11-27 10:55",
-  "displayName": "11-27 10:55｜测试｜特殊功能",
-  "note": "改动：\n验证：1\n待验证或已知限制：",
+  "id": "TV20261127-160911",
+  "versionId": "TV20261127-160911",
+  "parentVersionId": "TV20261127-105535",
+  "publishedAt": "2026-11-27 16:09:11",
+  "displayTime": "11-27 16:09",
+  "displayName": "11-27 16:09｜测试｜zaqizaba",
+  "note": "",
   "fileCount": 50,
-  "changedCount": 2,
+  "changedCount": 7,
   "changedFiles": [
+    "55.zjs",
+    "农场脚本版本发布器.zjs",
+    "总控.zjs",
+    "查看状态.zjs",
     "退出农场.zjs",
+    "选择英雄植物.zjs",
     "农场特殊功能.zjs"
   ],
   "removedLegacyFiles": [],
@@ -67,10 +72,11 @@
     "农场云下载_一键网络修复.zjs",
     "农场特殊功能.zjs"
   ],
-  "tagName": "farm-v5-test-V20261127-105535",
-  "snapshotSha": "farm-v5-test-V20261127-105535",
+  "tagName": "farm-v5-test-V20261127-160911",
+  "snapshotSha": "farm-v5-test-V20261127-160911",
   "mode": "atomic-tag",
   "channel": "test",
   "stableBaseVersionId": "V20261120-224338",
-  "promotedFromVersionId": ""
+  "promotedFromVersionId": "",
+  "removedManagedFiles": []
 }
